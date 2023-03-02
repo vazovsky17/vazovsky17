@@ -13,7 +13,10 @@
   <li>📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
 
   <li>🌍 I speak Russian (native), English (A2)</li>
+  
 </ul>
+
+![](https://komarev.com/ghpvc/?username=vazovsky17)
 
 ### Connect with me:
 <p align="left">
@@ -29,6 +32,9 @@
 <h2>Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vazovsky17&margin-w=15&margin-h=15&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Statistic for public repos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vazovsky17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Work</h2>
 
@@ -48,6 +54,7 @@
 </p>
 
 ### Languages
+
 <p align="left">
   <a href="https://kotlinlang.org/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/kotlin" />
