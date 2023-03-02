@@ -7,14 +7,11 @@
   </a>
 </p>
 
-<ul align ="left">
-  <li>🌱 I’m currently learning **Android** Programming </li>
+ - 🌱 I’m currently learning **Android** Programming </li>
 
-  <li>📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
+ - 📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
 
-  <li>🌍 I speak Russian (native), English (A2)</li>
-  
-</ul>
+ - 🌍 I speak Russian (native), English (A2)</li>
 
 ![](https://komarev.com/ghpvc/?username=vazovsky17)
 
