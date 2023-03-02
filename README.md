@@ -7,24 +7,28 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Android** Programming
+<ul align ="left">
+  <li>🌱 I’m currently learning **Android** Programming </li>
 
-- 📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com**
+  <li>📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
 
-- 🌍 I speak Russian (native), English (A2)
+  <li>🌍 I speak Russian (native), English (A2)</li>
+</ul>
 
 ### Connect with me:
 <p align="left">
   <a href="https://t.me/vazovsky_17" target="blank">
     <img height="48" width="48" src="https://cdn.simpleicons.org/telegram" />
   </a>
-  <a href="" target="blank">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/discord" /> 
-  </a>
+  
   <a href="https://steamcommunity.com/id/vazovskyapp/" target="blank">
     <img height="48" width="48" src="https://cdn.simpleicons.org/steam/0f75a5" />
   </a>
 </p>
+
+<h2>Github Profile Trophy</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vazovsky17&margin-w=15&margin-h=15&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>Work</h2>
 
@@ -33,8 +37,13 @@
   <a href="https://developer.android.com/studio">
     <img height="48" width="48" src="https://cdn.simpleicons.org/androidstudio" />
   </a>
+  
   <a href="https://firebase.google.com/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/firebase" />
+  </a>
+  
+  <a href="https://www.figma.com/">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/figma" />
   </a>
 </p>
 
@@ -52,10 +61,12 @@
   <a href="https://visualstudio.microsoft.com/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudio" />
   </a>
+  
   <a href="https://code.visualstudio.com/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
   </a>
-    <a href="https://www.jetbrains.com/pycharm/">
+  
+  <a href="https://www.jetbrains.com/pycharm/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/pycharm/faf94a" />
   </a>
 </p>
@@ -65,7 +76,12 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img height="48" width="48" src="https://cdn.simpleicons.org/csharp" />
   </a>
+  
   <a href="https://www.python.org/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/python" />
+  </a>
+  
+  <a href="https://www.apple.com/ru/swift/">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/swift" />
   </a>
 </p>
