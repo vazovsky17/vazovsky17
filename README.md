@@ -66,6 +66,19 @@
   </a>
 </p>
 
+### Libraries & Technologies
+
+- MVVM 
+- Dagger 2 / Dagger Hilt
+- Retofit, OkHttp
+- Firebase Auth, FireStore
+- Room
+- Coroutines
+- Glide, Lottie
+- WorkManager
+- Android Components
+- Material UI Components, Custom Views
+
 <h2>Hobby</h2> 
 
 ### Tools
