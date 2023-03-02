@@ -76,6 +76,10 @@
   <a href="https://www.jetbrains.com/pycharm/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/pycharm/faf94a" />
   </a>
+  
+  <a href="https://developer.apple.com/xcode/">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/xcode" />
+  </a>
 </p>
 
 ### Languages
