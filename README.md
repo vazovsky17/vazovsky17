@@ -29,6 +29,12 @@
   </a>
 </p>
 
+### Work Experience
+#### Heads & Hands
+Junior Android Developer
+2 февраля 2022 - 13 марта 2023 
+    (1 год 1 мес)
+
 <h2>Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vazovsky17&margin-w=15&margin-h=15&theme=darkhub&column=3)](https://github.com/ryo-ma/github-profile-trophy)
