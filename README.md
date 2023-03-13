@@ -29,7 +29,7 @@
 <h2>Work Experience</h2>
 <h3>Heads & Hands</h3>
 <p>Junior Android Developer</p>
-<p>февраль 2022 - март 2023 <i>(1 год 1 мес)</i></p>
+<p>Febrary 2022 - March 2023 <i>(1 year 1 month)</i></p>
 <hr>
 
 ### Leetcode
