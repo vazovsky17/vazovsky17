@@ -15,9 +15,6 @@
 
 ![](https://komarev.com/ghpvc/?username=vazovsky17)
 
-### Leetcode
-![](https://leetcard.jacoblin.cool/vazovsky17?theme=dark)
-
 ### Connect with me:
 <p align="left">
   <a href="https://t.me/vazovsky_17" target="blank">
@@ -29,11 +26,14 @@
   </a>
 </p>
 
-### Work Experience
-#### Heads & Hands
-Junior Android Developer
-2 февраля 2022 - 13 марта 2023 
-    (1 год 1 мес)
+<h2>Work Experience</h2>
+<h3>Heads & Hands</h3>
+<p>Junior Android Developer</p>
+<p>февраль 2022 - март 2023 <i>(1 год 1 мес)</i></p>
+<hr>
+
+### Leetcode
+![](https://leetcard.jacoblin.cool/vazovsky17?theme=dark)
 
 <h2>Github Profile Trophy</h2>
 
