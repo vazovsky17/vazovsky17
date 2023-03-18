@@ -11,7 +11,7 @@
 
  - 📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
 
- - 🌍 I speak Russian (native), English (A2)</li>
+ - 🌍 I speak Russian (native), English (B1)</li>
 
 ![](https://komarev.com/ghpvc/?username=vazovsky17)
 
