@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h2>Work Experience</h2>
+<h2>Work Experience <i>(1 year 1 month)</i></h2>
 <h3>Heads & Hands</h3>
 <p>Junior Android Developer</p>
 <p>Febrary 2022 - March 2023 <i>(1 year 1 month)</i></p>
