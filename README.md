@@ -28,13 +28,14 @@
 
 <h2>My projects</h2>
 
+<p>Participated in the development of the <b>Sportmaster</b> application</p>
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
 <p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
 
-<h2>Work Experience <i>(1 year 1 month)</i></h2>
+<h2>Work Experience <i>(1 year 2 month)</i></h2>
 <h3>Heads & Hands</h3>
 <p>Junior Android Developer</p>
-<p>Febrary 2022 - March 2023 <i>(1 year 1 month)</i></p>
+<p>Febrary 2022 - March 2023 <i>(1 year 2 month)</i></p>
 <h2></2>
 <h3>SpaceApp</h3>
 <p>Android Developer</p>
