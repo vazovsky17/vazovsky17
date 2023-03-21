@@ -26,6 +26,9 @@
   </a>
 </p>
 
+<h2>My projects</h2>
+<p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
+
 <h2>Work Experience <i>(1 year 1 month)</i></h2>
 <h3>Heads & Hands</h3>
 <p>Junior Android Developer</p>
