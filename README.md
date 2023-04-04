@@ -37,10 +37,7 @@
 <h3>Heads & Hands</h3>
 <p>Junior Android Developer</p>
 <p>Febrary 2022 - March 2023 <i>(1 year 2 month)</i></p>
-<h2></2>
-<h3>SpaceApp</h3>
-<p>Android Developer</p>
-<p>March 2023 - now</p>
+
 
 ### Leetcode
 ![](https://leetcard.jacoblin.cool/vazovsky17?theme=dark)
