@@ -40,7 +40,7 @@
 <h2></h2>
 <h3>SmartWay</h3>
 <p>Junior Android Developer</p>
-<p> March 2023 - now</p>
+<p> April 2023 - now</p>
 
 ### Leetcode
 ![](https://leetcard.jacoblin.cool/vazovsky17?theme=dark)
