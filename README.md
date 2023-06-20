@@ -33,7 +33,7 @@
 <p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
 <p><a href="https://github.com/vazovsky17/KinopoiskDev">Test task for one company using the unofficial Kinopoisk API</a></p>
 
-<h2>Work Experience <i>(1 year 5 month)</i></h2>
+<h2>Work Experience <i>(1 year 5 months)</i></h2>
 <h3>Heads & Hands</h3>
 <p>Junior Android Developer</p>
 <p>Febrary 2022 - March 2023 <i>(1 year 2 months)</i></p>
