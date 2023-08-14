@@ -89,7 +89,7 @@
 
 - MVVM 
 - Dagger 2 / Dagger Hilt
-- Retofit, OkHttp
+- Retofit, OkHttp, Ktor
 - Firebase Auth, FireStore
 - Room
 - Coroutines
@@ -97,6 +97,7 @@
 - WorkManager
 - Android Components
 - Material UI Components, Custom Views
+- Jetpacx Compose
 
 <h2>Hobby</h2> 
 
