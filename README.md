@@ -87,7 +87,7 @@
 - WorkManager
 - Android Components
 - Material UI Components, Custom Views
-- Jetpacx Compose
+- Jetpack Compose
 
 <h2>Hobby</h2> 
 
