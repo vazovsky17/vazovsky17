@@ -29,18 +29,23 @@
 <h2>My projects</h2>
 
 <p>Participated in the development of the <b>Sportmaster</b> application</p>
+<p><a href="https://github.com/vazovsky17/WishMesh">WishMesh - App for wishlists</a> <i>(In progress)</i></p>
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
 <p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
 <p><a href="https://github.com/vazovsky17/KinopoiskDev">Test task for one company using the unofficial Kinopoisk API</a></p>
 
 <h2>Work Experience <i>(1 year 6 months)</i></h2>
-<h3>Heads & Hands</h3>
-<p>Junior Android Developer</p>
-<p>Febrary 2022 - March 2023 <i>(1 year 2 months)</i></p>
+<h3>Sandbox Development</h3>
+<p>Junior+ Android Developer</p>
+<p>September 2023 - now <i>(<1 month)</i></p>
 <h2></h2>
 <h3>SmartWay</h3>
 <p>Junior Android Developer</p>
 <p> April - August 2023 <i>(4 months)</i></i></p>
+<h2></h2>
+<h3>Heads & Hands</h3>
+<p>Junior Android Developer</p>
+<p>Febrary 2022 - March 2023 <i>(1 year 2 months)</i></p>
 
 <h2>Work</h2>
 
