@@ -29,7 +29,7 @@
 <h2>My projects</h2>
 
 <p>Participated in the development of the <b>Sportmaster</b> application</p>
-<p><a href="https://github.com/vazovsky17/WishMesh">WishMesh - App for wishlists</a> <i>(In progress)</i></p>
+<p><a href="https://github.com/vazovsky17/WishMesh">WishMesh - App for wishlists</a> <i>(In progress)</i>. Backend on Ktor, private</p>
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
 <p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
 <p><a href="https://github.com/vazovsky17/KinopoiskDev">Test task for one company using the unofficial Kinopoisk API</a></p>
