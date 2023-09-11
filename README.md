@@ -84,7 +84,7 @@
 
 - MVVM 
 - Dagger 2 / Dagger Hilt
-- Retofit, OkHttp, Ktor
+- Ktor, Retofit, OkHttp
 - Firebase Auth, FireStore
 - Room
 - Coroutines
