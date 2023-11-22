@@ -37,7 +37,7 @@
 <h2>Work Experience <i>(1 year 6 months)</i></h2>
 <h3>Sandbox Development</h3>
 <p>Junior+ Android Developer</p>
-<p>September 2023 - now <i>(<1 month)</i></p>
+<p>September 2023 - now <i>(<3 month)</i></p>
 <h2></h2>
 <h3>SmartWay</h3>
 <p>Junior Android Developer</p>
