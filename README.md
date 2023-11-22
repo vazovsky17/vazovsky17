@@ -28,7 +28,7 @@
 
 <h2>My projects</h2>
 
-<p>Participated in the development of the <b>Sportmaster</b> & <b>SmartWay</b> applications</p>
+<p>Participated in the development of the <b>Sportmaster</b> and <b>SmartWay</b> applications</p>
 <p><a href="https://github.com/vazovsky17/WishMesh">WishMesh - App for wishlists</a> <i>(In progress)</i>, Backend on Ktor (private)</p>
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
 <p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
