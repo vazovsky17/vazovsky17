@@ -7,8 +7,6 @@
   </a>
 </p>
 
- - 🌱 I’m currently learning **Android** Programming </li>
-
  - 📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
 
  - 🌍 I speak Russian (native), English (B1)</li>
