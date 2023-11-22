@@ -70,6 +70,10 @@
   <a href="https://www.figma.com/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/figma" />
   </a>
+
+  <a href="https://developer.android.com/jetpack/compose/">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/jetpackcompose" />
+  </a>
 </p>
 
 ### Languages
@@ -84,15 +88,17 @@
 
 - MVVM 
 - Dagger 2 / Dagger Hilt
+- Jetpack Compose
 - Ktor, Retofit, OkHttp
-- Firebase Auth, FireStore
+- Firebase Auth, FireStore, Cloud Messaging
 - Room
 - Coroutines
-- Glide, Lottie
+- Glide, Lottie, Coil, Picasso
 - WorkManager
 - Android Components
 - Material UI Components, Custom Views
-- Jetpack Compose
+- Exoplayer
+- Yandex Mapkit, Google Maps
 
 <h2>Hobby</h2> 
 
@@ -112,6 +118,10 @@
   
   <a href="https://developer.apple.com/xcode/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/xcode" />
+  </a>
+
+  <a href="https://www.docker.com">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/docker" />
   </a>
 </p>
 
