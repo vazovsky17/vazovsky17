@@ -90,7 +90,7 @@
 - MVVM 
 - Dagger 2 / Dagger Hilt
 - Jetpack Compose
-- Ktor, Retofit, OkHttp
+- Ktor, Retrofit, OkHttp
 - Firebase Auth, FireStore, Cloud Messaging
 - Room
 - Coroutines
