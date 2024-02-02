@@ -34,7 +34,7 @@
 <h2>Work Experience <i>(1 year 11 months)</i></h2>
 <h3>Жили-Были</h3>
 <p>Middle- Android Developer</p>
-<p>January 2024 - now <i>(just now)</i></p>
+<p>January 2024 - now <i>(1 month)</i></p>
 <h2></h2>
 <h3>Sandbox Development</h3>
 <p>Junior+ Android Developer</p>
