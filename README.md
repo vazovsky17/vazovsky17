@@ -87,7 +87,7 @@
 
 ### Libraries & Technologies
 
-- MVVM 
+- MVVM / MVI / TEA
 - Dagger 2 / Dagger Hilt
 - Jetpack Compose
 - Ktor, Retrofit, OkHttp
