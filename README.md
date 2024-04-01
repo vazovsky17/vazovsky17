@@ -90,9 +90,11 @@
 - MVVM / MVI / TEA
 - Dagger 2 / Dagger Hilt
 - Jetpack Compose
-- Ktor, Retrofit, OkHttp
-- Firebase Auth, FireStore, Cloud Messaging
-- Room
+- Ktor / Retrofit / OkHttp / Volley
+- Firebase Auth
+- Firebase Analitics
+- Firebase Cloud Messaging / OneSignal
+- Room / Firebase FireStore
 - Coroutines
 - Glide, Lottie, Coil, Picasso
 - WorkManager
@@ -100,6 +102,7 @@
 - Material UI Components, Custom Views
 - Exoplayer
 - Yandex Mapkit, Google Maps
+- Hawk / Datastore
 
 <h2>Hobby</h2> 
 
