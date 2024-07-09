@@ -103,6 +103,7 @@
 - Exoplayer
 - Yandex Mapkit, Google Maps
 - Hawk / Datastore
+- Fingerprint
 
 <h2>Hobby</h2> 
 
