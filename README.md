@@ -31,14 +31,14 @@
 <p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
 <p><a href="https://github.com/vazovsky17/KinopoiskDev">Test task for one company using the unofficial Kinopoisk API</a></p>
 
-<h2>Work Experience <i>(2 years 7 months)</i></h2>
+<h2>Work Experience <i>(3 years 1 month)</i></h2>
 <h3>Жили-Были</h3>
 <p>Middle- Android Developer</p>
-<p>January 2024 - now <i>(8 month)</i></p>
+<p>January 2024 - now <i>(1 year 2 months)</i></p>
 <h2></h2>
 <h3>Sandbox Development</h3>
 <p>Junior+ Android Developer</p>
-<p>September 2023 - April 2024 <i>(8 month)</i></p>
+<p>September 2023 - April 2024 <i>(8 months)</i></p>
 <h2></h2>
 <h3>SmartWay</h3>
 <p>Junior Android Developer</p>
