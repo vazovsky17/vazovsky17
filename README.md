@@ -15,7 +15,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://t.me/vazovsky_17" target="blank">
+  <a href="https://t.me/vazovsky17" target="blank">
     <img height="48" width="48" src="https://cdn.simpleicons.org/telegram" />
   </a>
   
