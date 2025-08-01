@@ -28,8 +28,6 @@
 
 <p>Participated in the development of the <b>Sportmaster</b> and <b>SmartWay</b> applications</p>
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
-<p><a href="https://github.com/vazovsky17/RickAndMorty">Rick and Morty</a></p>
-<p><a href="https://github.com/vazovsky17/KinopoiskDev">Test task for one company using the unofficial Kinopoisk API</a></p>
 
 <h2>Work Experience <i>(3 years 7 month)</i></h2>
 <h3>Жили-Были</h3>
