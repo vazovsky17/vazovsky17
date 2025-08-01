@@ -26,7 +26,6 @@
 
 <h2>My projects</h2>
 
-<p>Participated in the development of the <b>Sportmaster</b> and <b>SmartWay</b> applications</p>
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
 
 <h2>Work Experience <i>(3 years 7 month)</i></h2>
