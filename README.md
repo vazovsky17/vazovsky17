@@ -30,15 +30,15 @@
 
 <h2>Work Experience <i>(3 years 7 month)</i></h2>
 <h3>Жили-Были</h3>
-<p>Middle- Android Developer</p>
+<p>Middle Android Developer</p>
 <p>January 2024 - now <i>(1 year 8 months)</i></p>
 <h2></h2>
 <h3>Sandbox Development</h3>
-<p>Junior+ Android Developer</p>
+<p>Android Developer</p>
 <p>September 2023 - April 2024 <i>(8 months)</i></p>
 <h2></h2>
 <h3>SmartWay</h3>
-<p>Junior Android Developer</p>
+<p>Android Developer</p>
 <p> April - August 2023 <i>(4 months)</i></i></p>
 <h2></h2>
 <h3>Heads & Hands</h3>
