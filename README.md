@@ -102,46 +102,6 @@
 - Hawk / Datastore
 - Fingerprint
 
-<h2>Hobby</h2> 
-
-### Tools
-<p align="left">
-  <a href="https://visualstudio.microsoft.com/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudio" />
-  </a>
-  
-  <a href="https://code.visualstudio.com/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
-  </a>
-  
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/pycharm/faf94a" />
-  </a>
-  
-  <a href="https://developer.apple.com/xcode/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/xcode" />
-  </a>
-
-  <a href="https://www.docker.com">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/docker" />
-  </a>
-</p>
-
-### Languages
-<p align="left">
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/csharp" />
-  </a>
-  
-  <a href="https://www.python.org/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/python" />
-  </a>
-  
-  <a href="https://www.apple.com/ru/swift/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/swift" />
-  </a>
-</p>
-
 ### Leetcode
 ![](https://leetcard.jacoblin.cool/vazovsky17?theme=dark)
 
