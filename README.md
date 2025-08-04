@@ -49,10 +49,6 @@
 
 ### Tools
 <p align="left">
-  <a href="https://github.com/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/github/white" />
-  </a>
-  
   <a href="https://gitlab.com/">
     <img height="48" width="48" src="https://cdn.simpleicons.org/gitlab" />
   </a>
