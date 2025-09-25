@@ -1,110 +1,224 @@
-<h1 align="center">Hi there, I'm Marina
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&height=60&lines=Android+Dev+from+Russia%2C+Saratov%2FSaint+Petersburg" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
- - 📫 How to reach me **hecchuck17@gmail.com** & **vazovsky.app@gmail.com** </li>
+<!-- Анимированный заголовок -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Marina%20Vazovsky&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Russia&descAlignY=55&descSize=18" />
 
- - 🌍 I speak Russian (native), English (B1)</li>
+</div>
 
-![](https://komarev.com/ghpvc/?username=vazovsky17)
+<div align="center">
 
-### Connect with me:
-<p align="left">
-  <a href="https://t.me/vazovsky17" target="blank">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/telegram" />
-  </a>
-  
-  <a href="https://steamcommunity.com/id/vazovskyapp/" target="blank">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/steam/0f75a5" />
-  </a>
-</p>
+<!-- Анимированный текст -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Mobile+Developer+from+Saratov%2C+Russia" alt="Typing SVG" />
+</a>
 
-<h2>My projects</h2>
+</div>
 
-<p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
+<div align="right">
+<!-- Счетчик просмотров -->
+<img src="https://komarev.com/ghpvc/?username=vazovsky17&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
-<h2>Work Experience <i>(3 years 8 month)</i></h2>
-<h3>Жили-Были</h3>
-<p>Middle Android Developer</p>
-<p>January 2024 - now <i>(1 year 9 months)</i></p>
-<h2></h2>
-<h3>Sandbox Development</h3>
-<p>Android Developer</p>
-<p>September 2023 - April 2024 <i>(8 months)</i></p>
-<h2></h2>
-<h3>SmartWay</h3>
-<p>Android Developer</p>
-<p> April - August 2023 <i>(4 months)</i></i></p>
-<h2></h2>
-<h3>Heads & Hands</h3>
-<p>Junior Android Developer</p>
-<p>Febrary 2022 - March 2023 <i>(1 year 2 months)</i></p>
+</div>
 
-<h2>Work</h2>
+---
 
-### Tools
-<p align="left">
-  <a href="https://gitlab.com/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/gitlab" />
-  </a>
-  
-  <a href="https://developer.android.com/studio">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/androidstudio" />
-  </a>
-  
-  <a href="https://firebase.google.com/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/firebase" />
-  </a>
-  
-  <a href="https://www.figma.com/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/figma" />
-  </a>
+<div align="center">
 
-  <a href="https://developer.android.com/jetpack/compose/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/jetpackcompose" />
-  </a>
-</p>
+## 💫 About Me
 
-### Languages
+Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of experience crafting intuitive mobile experiences. Fluent in Russian and conversational in English, I’m dedicated to clean architecture, modern UI design, and continuous learning.
 
-<p align="left">
-  <a href="https://kotlinlang.org/">
-    <img height="48" width="48" src="https://cdn.simpleicons.org/kotlin" />
-  </a>
-</p>
+- 🌟 **Current Role:** Middle Android Developer at Жили-Были  
+- 🚀 **Expertise:** MVVM, Jetpack Compose, Coroutines, Dagger Hilt  
+- 🎨 **Passions:** UI/UX, animation, performance optimization  
+- 🍏 **New Adventure:** Diving into **iOS Development** with Swift & SwiftUI  
 
-### Libraries & Technologies
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+<a href="mailto:hecchuck17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="mailto:vazovsky.app@gmail.com">
+    <img src="https://img.shields.io/badge/Work_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Work Email" />
+</a>
+<a href="https://t.me/vazovsky17" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://steamcommunity.com/id/vazovskyapp/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+[![Healsted](https://github-readme-stats.vercel.app/api/pin/?username=VazovskyApp&repo=Healsted&theme=tokyonight&border_color=6C63FF)](https://github.com/VazovskyApp/Healsted)
+
+**Healsted** - Advanced medication tracker app with intuitive UI and smart notifications
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🏢 **Жили-Были**
+**Middle Android Developer**  
+*Jan 2024 - Present*  
+*(1 year 9 months)*
+
+</td>
+<td align="center" width="25%">
+
+### 🎮 **Sandbox Development**
+**Android Developer**  
+*Sep 2023 - Apr 2024*  
+*(8 months)*
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 **SmartWay**
+**Android Developer**  
+*Apr - Aug 2023*  
+*(4 months)*
+
+</td>
+<td align="center" width="25%">
+
+### 👨‍💻 **Heads & Hands**
+**Junior Android Developer**  
+*Feb 2022 - Mar 2023*  
+*(1 year 2 months)*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Languages
+<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50" />
+
+### 🔧 Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,figma" alt="Tools" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="50" height="50" />
+
+### ⚡ Technologies
+
+<details>
+<summary><b>Architecture & Patterns</b></summary>
 
 - MVVM / MVI / TEA
-- Dagger 2 / Dagger Hilt
+- Clean Architecture
+- Repository Pattern
+
+</details>
+
+<details>
+<summary><b>Dependency Injection</b></summary>
+
+- Dagger 2
+- Dagger Hilt
+
+</details>
+
+<details>
+<summary><b>UI & Design</b></summary>
+
 - Jetpack Compose
+- Material UI Components
+- Custom Views
+- Lottie Animations
+
+</details>
+
+<details>
+<summary><b>Networking & Data</b></summary>
+
 - Ktor / Retrofit / OkHttp / Volley
-- Firebase Auth
-- Firebase Analitics
-- Firebase Cloud Messaging / OneSignal
-- Room / Firebase FireStore
-- Coroutines
-- Glide, Lottie, Coil, Picasso
+- Room Database
+- Firebase Firestore
+- Datastore / Hawk
+
+</details>
+
+<details>
+<summary><b>Other</b></summary>
+
+- Coroutines & Flow
 - WorkManager
-- Android Components
-- Material UI Components, Custom Views
-- Exoplayer
-- Yandex Mapkit, Google Maps
-- Hawk / Datastore
-- Fingerprint
+- Firebase (Auth, Analytics, FCM)
+- Maps (Yandex Mapkit, Google Maps)
+- ExoPlayer
+- Fingerprint Authentication
 
-### Leetcode
-![](https://leetcard.jacoblin.cool/vazovsky17?theme=dark)
+</details>
 
-<h2>Github Profile Trophy</h2>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vazovsky17&margin-w=15&margin-h=15&theme=darkhub&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-### Statistic for public repos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vazovsky17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vazovsky17&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazovsky17&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazovsky17&layout=compact&theme=tokyonight&border_color=6C63FF&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vazovsky17&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🧩 Coding Challenges
+
+<div align="center">
+
+[![LeetCode](https://leetcard.jacoblin.cool/vazovsky17?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/vazovsky17/)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Анимированный подвал -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+
+### ⭐ Thanks for visiting! Let's build something amazing together! ⭐
+
+</div>
