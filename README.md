@@ -28,10 +28,10 @@
 
 <p><a href="https://github.com/VazovskyApp/Healsted">Healsted - Medication tracker app</a></p>
 
-<h2>Work Experience <i>(3 years 7 month)</i></h2>
+<h2>Work Experience <i>(3 years 8 month)</i></h2>
 <h3>Жили-Были</h3>
 <p>Middle Android Developer</p>
-<p>January 2024 - now <i>(1 year 8 months)</i></p>
+<p>January 2024 - now <i>(1 year 9 months)</i></p>
 <h2></h2>
 <h3>Sandbox Development</h3>
 <p>Android Developer</p>
