@@ -26,12 +26,12 @@
 
 ## 💫 About Me
 
-Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of experience crafting intuitive mobile experiences. Fluent in Russian and conversational in English, I’m dedicated to clean architecture, modern UI design, and continuous learning.
+Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of experience crafting intuitive mobile experiences. Fluent in Russian and conversational in English, I'm dedicated to clean architecture, modern UI design, and continuous learning.
 
 - 🌟 **Current Role:** Middle Android Developer at Жили-Были  
 - 🚀 **Expertise:** MVVM, Jetpack Compose, Coroutines, Dagger Hilt  
 - 🎨 **Passions:** UI/UX, animation, performance optimization  
-- 🍏 **New Adventure:** Diving into **iOS Development** with Swift & SwiftUI  
+- 🍏 **New Adventure:** Exploring **iOS Development** with Swift & SwiftUI
 
 </div>
 
@@ -115,8 +115,11 @@ Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of 
 
 <div align="center">
 
-### 📱 Languages
+### 📱 Languages & Platforms
 <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="50" height="50" />
 
 ### 🔧 Tools & Frameworks
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase,figma" alt="Tools" />
@@ -145,6 +148,7 @@ Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of 
 <summary><b>UI & Design</b></summary>
 
 - Jetpack Compose
+- SwiftUI (learning)
 - Material UI Components
 - Custom Views
 - Lottie Animations
@@ -198,7 +202,7 @@ Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vazovsky17&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=vazovsky17&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
