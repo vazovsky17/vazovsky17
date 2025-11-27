@@ -1,109 +1,82 @@
 <div align="center">
 
-<!-- Анимированный заголовок -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Marina%20Vazovsky&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%7C%20Russia&descAlignY=55&descSize=18" />
+# 👋 Hi there! I'm Marina Klyueva
 
-</div>
-
-<div align="center">
-
-<!-- Анимированный текст -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Mobile+Developer+from+Saratov%2C+Russia" alt="Typing SVG" />
-</a>
-
-</div>
-
-<div align="right">
-<!-- Счетчик просмотров -->
-<img src="https://komarev.com/ghpvc/?username=vazovsky17&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Middle+Android+%7C+Junior+iOS+Developer;Kotlin+%E2%9C%A8+Swift+%E2%9C%A8+Jetpack+Compose;Building+PandyPad+%F0%9F%93%9D;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## 💫 About Me
+```kotlin
+val developer = Developer(
+    name = "Marina Klyueva",
+    location = "Saratov / Saint Petersburg 🇷🇺",
+    currentRole = "Middle Android Developer @ Zhili-Byli",
+    experience = "3+ years",
+    passion = listOf(
+        "Crafting intuitive mobile experiences",
+        "Clean Architecture & modern patterns",
+        "Open Source projects",
+        "Music 🎵 & Creative writing ✍️"
+    ),
+    learning = "iOS Development (Swift, SwiftUI) 🍏",
+    currentProject = "PandyPad - Multi-platform notes app 📝"
+)
+```
 
-Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of experience crafting intuitive mobile experiences. Fluent in Russian and conversational in English, I'm dedicated to clean architecture, modern UI design, and continuous learning.
+### 🎯 What I Do
 
-- 🌟 **Current Role:** Middle Android Developer at Жили-Были  
-- 🚀 **Expertise:** MVVM, Jetpack Compose, Coroutines, Dagger Hilt  
-- 🎨 **Passions:** UI/UX, animation, performance optimization  
-- 🍏 **New Adventure:** Exploring **iOS Development** with Swift & SwiftUI
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Let's Connect
-
-<a href="mailto:hecchuck17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="mailto:vazovsky.app@gmail.com">
-    <img src="https://img.shields.io/badge/Work_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Work Email" />
-</a>
-<a href="https://t.me/vazovsky17" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://steamcommunity.com/id/vazovskyapp/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-[![Healsted](https://github-readme-stats.vercel.app/api/pin/?username=VazovskyApp&repo=Healsted&theme=tokyonight&border_color=6C63FF)](https://github.com/VazovskyApp/Healsted)
-
-**Healsted** - Advanced medication tracker app with intuitive UI and smart notifications
-
-</div>
+- 🏗️ Building **PandyPad** — a multi-platform notes application (Android, iOS, macOS)
+- 📱 Creating high-quality Android apps using **Jetpack Compose** and **Clean Architecture**
+- 🌱 Learning **iOS development** and aiming for Senior level
+- 🎨 Passionate about **UI/UX design**, animations, and performance optimization
+- 🎼 Writing songs and poems in my free time
 
 ---
 
 ## 💼 Professional Experience
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🏢 **Жили-Были**
+### 🏢 Zhili-Byli
 **Middle Android Developer**  
-*Jan 2024 - Present*  
-*(1 year 9 months)*
+📅 Jan 2024 - Present *(1 year 11 months)*
+
+Developing complex Android applications using modern technologies and architectural patterns.
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🎮 **Sandbox Development**
+### 🎮 Sandbox Development
 **Android Developer**  
-*Sep 2023 - Apr 2024*  
-*(8 months)*
+📅 Sep 2023 - Apr 2024 *(8 months)*
+
+I create an application in one, carefully planning the time for tasks.
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td width="50%">
 
-### 🚀 **SmartWay**
+### 🚀 SmartWay
 **Android Developer**  
-*Apr - Aug 2023*  
-*(4 months)*
+📅 Apr - Aug 2023 *(4 months)*
+
+Developing mobile solutions for business.
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-### 👨‍💻 **Heads & Hands**
+### 👨‍💻 Heads & Hands
 **Junior Android Developer**  
-*Feb 2022 - Mar 2023*  
-*(1 year 2 months)*
+📅 Feb 2022 - Mar 2023 *(1 year 2 months)*
+
+Started my Android development career, mastering fundamentals and best practices.
 
 </td>
 </tr>
@@ -113,106 +86,214 @@ Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of 
 
 ## 🛠️ Tech Stack
 
+### 📱 Languages & Platforms
+
 <div align="center">
 
-### 📱 Languages & Platforms
-<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="50" height="50" />
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### 🔧 Tools & Frameworks
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,figma" alt="Tools" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="50" height="50" />
+</div>
 
-### ⚡ Technologies
+### 🎨 UI/UX & Design
 
-<details>
-<summary><b>Architecture & Patterns</b></summary>
+<div align="center">
 
-- MVVM / MVI / TEA
-- Clean Architecture
-- Repository Pattern
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</details>
+</div>
 
-<details>
-<summary><b>Dependency Injection</b></summary>
+### 🏗️ Architecture & Patterns
 
-- Dagger 2
-- Dagger Hilt
+<div align="center">
 
-</details>
+![MVVM](https://img.shields.io/badge/MVVM-6C47FF?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-FF6C47?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-47FFCE?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-FFC947?style=for-the-badge)
 
-<details>
-<summary><b>UI & Design</b></summary>
+</div>
 
-- Jetpack Compose
-- SwiftUI (learning)
-- Material UI Components
-- Custom Views
-- Lottie Animations
+### ⚙️ Tools & Frameworks
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>Networking & Data</b></summary>
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-FF6B6B?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-FF6B35?style=for-the-badge&logo=ktor&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-0095D5?style=for-the-badge)
 
-- Ktor / Retrofit / OkHttp / Volley
-- Room Database
-- Firebase Firestore
-- Datastore / Hawk
+</div>
 
-</details>
+### 🔥 Firebase & Backend
 
-<details>
-<summary><b>Other</b></summary>
+<div align="center">
 
-- Coroutines & Flow
-- WorkManager
-- Firebase (Auth, Analytics, FCM)
-- Maps (Yandex Mapkit, Google Maps)
-- ExoPlayer
-- Fingerprint Authentication
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-</details>
+</div>
+
+### 🗺️ Maps & Location
+
+<div align="center">
+
+![Yandex Maps](https://img.shields.io/badge/Yandex%20Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+</div>
+
+### 🧪 Testing
+
+<div align="center">
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockk](https://img.shields.io/badge/Mockk-FF6B6B?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-6DB33F?style=for-the-badge)
+
+</div>
+
+### 🔧 Development Tools
+
+<div align="center">
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 </div>
 
 ---
 
+## 🌟 Featured Projects
+
 <div align="center">
+
+### 📝 [PandyPad](https://github.com/vazovsky17/PandyPad)
+> **Multi-platform notes application**  
+> Kotlin • Swift • Jetpack Compose • SwiftUI • Clean Architecture
+
+A modern notes app with Markdown support, custom themes, and cross-device synchronization.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vazovsky17/PandyPad)
+
+---
+
+### 💊 Healsted
+> **Medication tracker with smart notifications**  
+> Kotlin • Jetpack Compose • MVVM • WorkManager
+
+Advanced medication tracking app with intuitive UI and smart notification system.
+
+---
+
+### 🎬 [RickAndMorty](https://github.com/vazovsky17/RickAndMorty)
+> **Rick and Morty universe course project**  
+> Kotlin • MVVM • Retrofit • Material Design
+
+An app for exploring characters, locations, and episodes from the Rick and Morty series.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vazovsky17/RickAndMorty)
+
+---
+
+### 📊 [SmoothGraph](https://github.com/vazovsky17/SmoothGraph)
+> **Custom animated graph library**  
+> Kotlin • Custom Views • Canvas
+
+A library for creating smooth animated graphs with customization support.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vazovsky17/SmoothGraph)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazovsky17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazovsky17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vazovsky17&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vazovsky17/vazovsky17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vazovsky17/vazovsky17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vazovsky17/vazovsky17/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎨 Beyond Code
+
+```swift
+struct CreativeLife {
+    let music = "Writing songs 🎵"
+    let writing = "Creating poems ✍️"
+    let art = "Drawing pixel art 🎨"
+    let gaming = "Organizing tabletop games 🎲"
+    
+    func balance() {
+        "Creativity + Code = 💜"
+    }
+}
+```
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vazovsky17)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vazovsky17)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecchuck17@gmail.com)
+
+</div>
+
+---
+
+## 💻 LeetCode Statistics
+
+<div align="center">
+
+### 🏆 Problem Solving Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vazovsky17?theme=dark&font=Baloo&ext=heatmap)
+
+</div>
+
+---
 
 ## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vazovsky17&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazovsky17&show_icons=true&theme=tokyonight&border_color=6C63FF&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazovsky17&layout=compact&theme=tokyonight&border_color=6C63FF&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=vazovsky17&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🧩 Coding Challenges
-
-<div align="center">
-
-[![LeetCode](https://leetcard.jacoblin.cool/vazovsky17?theme=dark&font=Fira%20Code&ext=activity)](https://leetcode.com/vazovsky17/)
+![](https://github-profile-trophy.vercel.app/?username=vazovsky17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -220,9 +301,22 @@ Passionate Android Developer from Saratov/Saint Petersburg with over 3 years of 
 
 <div align="center">
 
-<!-- Анимированный подвал -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+### 💭 Quote for Inspiration
 
-### ⭐ Thanks for visiting! Let's build something amazing together! ⭐
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 👁️ Profile Views
+
+![](https://komarev.com/ghpvc/?username=vazovsky17&color=6366f1&style=for-the-badge&label=Profile+Views)
+
+---
+
+### 💜 Thanks for visiting!
+
+**Let's build something amazing together!** ✨
+
+*"Code is poetry, and I'm a poet"* 🚀
 
 </div>
