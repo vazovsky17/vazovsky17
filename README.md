@@ -187,8 +187,6 @@ Started my Android development career, mastering fundamentals and best practices
 
 A modern notes app with Markdown support, custom themes, and cross-device synchronization.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vazovsky17/PandyPad)
-
 ---
 
 ### 💊 Healsted
