@@ -54,7 +54,7 @@ Developing complex Android applications using modern technologies and architectu
 
 ### 🎮 Sandbox Development
 **Android Developer**  
-📅 Sep 2023 - Apr 2024 *(8 months)*
+📅 Sep 2023 - Feb 2024 *(6 months)*
 
 I create an application in one, carefully planning the time for tasks.
 
