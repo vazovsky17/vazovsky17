@@ -219,34 +219,6 @@ A library for creating smooth animated graphs with customization support.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazovsky17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazovsky17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vazovsky17&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vazovsky17/vazovsky17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vazovsky17/vazovsky17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vazovsky17/vazovsky17/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 🎨 Beyond Code
 
 ```swift
@@ -270,28 +242,6 @@ struct CreativeLife {
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vazovsky17)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vazovsky17)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecchuck17@gmail.com)
-
-</div>
-
----
-
-## 💻 LeetCode Statistics
-
-<div align="center">
-
-### 🏆 Problem Solving Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vazovsky17?theme=dark&font=Baloo&ext=heatmap)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=vazovsky17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 </div>
 
