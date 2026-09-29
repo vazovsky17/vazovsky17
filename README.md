@@ -42,13 +42,13 @@ Android is home ground. iOS is the next native surface. Shared logic belongs in 
 
 | Build | Signal | Engineering focus |
 | :-- | :-- | :-- |
-| **[VPN](https://github.com/vazovsky17/VazieVPN)** · *in testing* | Bring your own configuration | Android networking, secure local storage |
-| **Rhythm** | Medication schedules and habits | Offline state, reliable reminders |
-| **[Keep](https://github.com/vazovsky17/VazieKeep)** · *in development* | Your `.kdbx` vault, without surrendering it to a service | Kotlin · Compose · user-owned files · no account or server |
-| **Letter** | Email without a feed | Calm information architecture |
-| **Relay** · *in development* | Android ↔ iOS device link | Kotlin Multiplatform core, native UI on both sides |
+| **[VPN](https://github.com/vazovsky17/VazieVPN)** · *in testing* | Vazie subscription or your own configuration | Android networking, secure local storage |
+| **[Rhythm](https://github.com/vazovsky17/VazieRhythm)** · *in development* | Local-first medication schedules and habits | Offline state, reliable reminders, optional sync |
+| **[Keep](https://github.com/vazovsky17/VazieKeep)** · *in development* | Your `.kdbx` vault, without surrendering it to a service | Kotlin · Compose · user-owned files · optional services |
+| **[Letter](https://github.com/vazovsky17/VazieLetter)** · *in development* | Calm, local-first email | Single-account core, optional multi-account access |
+| **[Relay](https://github.com/vazovsky17/VazieRelay)** · *in development* | Android ↔ iOS device link | Kotlin Multiplatform core, native UI on both sides |
 
-**Also building: [Vazie Keep](https://github.com/vazovsky17/VazieKeep).** A password manager should not turn your vault into a subscription. Keep starts with a simpler contract: open the `.kdbx` file you chose, keep it where you chose, and never require an account, server or proprietary cloud. The Android foundation is now public — Kotlin, Compose and Material 3, built local-first from the first commit.
+The Vazie foundations are now public. Each app starts with a useful local core; subscriptions pay for service-backed capabilities rather than access to your own data. VPN can use Vazie servers or your own configuration, Rhythm keeps tracking available offline with optional sync, Letter adds multi-account access as an upgrade, and Keep leaves the `.kdbx` vault in storage you control. Relay is the shared Android ↔ iOS link underneath the wider product direction.
 
 <p>
   <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Vazie_VPN-public_repo-55E6C1?style=flat-square&labelColor=101525&logo=github&logoColor=55E6C1" alt="Open the public Vazie VPN repository"></a>
@@ -63,6 +63,9 @@ Android is home ground. iOS is the next native surface. Shared logic belongs in 
 
 [**VazieVPN**](https://github.com/vazovsky17/VazieVPN) ·
 [**VazieKeep**](https://github.com/vazovsky17/VazieKeep) ·
+[**VazieRhythm**](https://github.com/vazovsky17/VazieRhythm) ·
+[**VazieLetter**](https://github.com/vazovsky17/VazieLetter) ·
+[**VazieRelay**](https://github.com/vazovsky17/VazieRelay) ·
 [**PermAware**](https://github.com/vazovsky17/PermAware)
 
 <br>
