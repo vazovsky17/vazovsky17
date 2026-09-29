@@ -80,34 +80,23 @@
       <path d="M18 50H336" stroke="#7080AA" stroke-opacity="0.2"/>
       <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">
         <circle cx="23" cy="25" r="4" fill="#55E6C1"/>
-        <text x="38" y="30" font-size="12" letter-spacing="2" fill="#AAB4D3">PERMAWARE / SCAN</text>
-        <text x="289" y="30" font-size="11" fill="#55E6C1">LOCAL</text>
+        <text x="38" y="30" font-size="12" letter-spacing="2" fill="#AAB4D3">CURRENT SIGNAL</text>
+        <text x="286" y="30" font-size="11" fill="#55E6C1">PUBLIC</text>
 
-        <g transform="translate(91 72)">
-          <circle cx="86" cy="72" r="67" fill="none" stroke="#27314C" stroke-width="10"/>
-          <circle cx="86" cy="72" r="67" fill="none" stroke="#55E6C1" stroke-width="10" stroke-linecap="round" stroke-dasharray="342 421" transform="rotate(-90 86 72)" filter="url(#glow)"/>
-          <circle cx="86" cy="72" r="48" fill="#55E6C1" fill-opacity="0.035" stroke="#55E6C1" stroke-opacity="0.14"/>
-          <text x="86" y="66" text-anchor="middle" font-size="28" font-weight="700" fill="#F2F8FF">473</text>
-          <text x="86" y="88" text-anchor="middle" font-size="10" letter-spacing="1.7" fill="#7F8BAF">PACKAGES</text>
-        </g>
+        <text x="177" y="124" text-anchor="middle" font-size="13" letter-spacing="4" fill="#7F8BAF">VAZIE</text>
+        <text x="177" y="172" text-anchor="middle" font-size="42" font-weight="700" letter-spacing="1" fill="#F2F8FF">VPN</text>
+        <path d="M103 192H251" stroke="url(#accentLine)" stroke-width="2"/>
+        <text x="177" y="218" text-anchor="middle" font-size="10" letter-spacing="2" fill="#B8AEFF">ANDROID CLIENT</text>
 
         <g transform="translate(24 242)" font-size="10">
-          <text x="0" y="0" fill="#6F7A9C">NETWORK</text>
-          <text x="0" y="21" fill="#55E6C1">NO PERMISSION</text>
-          <text x="113" y="0" fill="#6F7A9C">SCAN</text>
-          <text x="113" y="21" fill="#E0E5F4">~1.5 SEC</text>
-          <text x="218" y="0" fill="#6F7A9C">TESTS</text>
-          <text x="218" y="21" fill="#B8AEFF">194 PASS</text>
+          <text x="0" y="0" fill="#6F7A9C">REPO</text>
+          <text x="0" y="21" fill="#55E6C1">PUBLIC</text>
+          <text x="113" y="0" fill="#6F7A9C">RELEASE</text>
+          <text x="113" y="21" fill="#E0E5F4">v0.1.0</text>
+          <text x="218" y="0" fill="#6F7A9C">STATUS</text>
+          <text x="218" y="21" fill="#B8AEFF">TESTING</text>
         </g>
       </g>
-
-      <g fill="#55E6C1">
-        <circle cx="44" cy="92" r="2" opacity="0.35"/>
-        <circle cx="306" cy="86" r="2" opacity="0.55"/>
-        <circle cx="321" cy="142" r="2" opacity="0.3"/>
-        <circle cx="31" cy="184" r="2" opacity="0.48"/>
-      </g>
-      <path d="M44 92L112 111M306 86L242 110M321 142L246 143M31 184L114 159" stroke="#55E6C1" stroke-opacity="0.16" stroke-dasharray="3 5"/>
     </g>
 
     <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#465170">

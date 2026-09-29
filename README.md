@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/vazovsky17/PermAware"><img src="https://img.shields.io/badge/featured-PermAware-55E6C1?style=flat-square&labelColor=101525" alt="Featured project: PermAware"></a>
+<a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/featured-Vazie_VPN-55E6C1?style=flat-square&labelColor=101525" alt="Featured project: Vazie VPN"></a>
 <img src="https://img.shields.io/badge/focus-mobile_systems-9B8CFF?style=flat-square&labelColor=101525" alt="Focus: mobile systems">
 <img src="https://img.shields.io/badge/based_in-Saratov-6A78A8?style=flat-square&labelColor=101525" alt="Based in Saratov">
 
@@ -23,45 +23,16 @@ Android is home ground. iOS is the next native surface. Shared logic belongs in 
 
 <br>
 
-## `01 // current signal` — PermAware
+## `01 // current signal` — [Vazie VPN](https://github.com/vazovsky17/VazieVPN)
 
-### Your apps have permissions. PermAware makes them visible.
-
-[**PermAware**](https://github.com/vazovsky17/PermAware) is a privacy-focused Android app that audits installed apps, explains access to the camera, microphone, location and contacts, and shows **what changed since the previous scan**.
-
-It is deliberately incapable of uploading that inventory: there is no account, backend, analytics or advertising SDK — and the release manifest contains **no `INTERNET` permission**.
-
-- inspect requested and actually granted permissions;
-- detect supported special access and explain unknown states honestly;
-- compare snapshots and keep a local change history;
-- export a report only through an explicit system share action;
-- run entirely on-device, with Room as the private source of truth.
-
-| Network access | Measured scan | Test matrix | Release |
-| :-- | :-- | :-- | :-- |
-| **No permission** | **473 packages in ~1.5 s** | **81 JVM + 113 device** | **v1.0.0 · 4.2 MB APK** |
-
-`minSdk 28` · `targetSdk 36` · `Kotlin` · `Jetpack Compose` · `Material 3` · `RU / EN`
-
-```mermaid
-flowchart LR
-    A[PackageManager] --> B[permission parser]
-    B --> C[attention engine]
-    C --> D[device snapshot]
-    D --> E[snapshot differ]
-    E --> F[(local Room history)]
-    F --> G[Compose UI / report]
-```
-
-The domain layer is plain Kotlin; Android framework types stop at `data/platform`. That keeps the attention engine, snapshot diffing and report generation fast to test on the JVM, while device tests validate the platform boundaries. The result is **81 JVM tests + 113 device tests**, clean lint and ktlint, and a reproducible CI build.
+`Android` · `v0.1.0` · `in testing` · `bring your own configuration`
 
 <p>
-  <a href="https://github.com/vazovsky17/PermAware/releases/latest/download/app-release.apk"><img src="https://img.shields.io/badge/Download-APK-55E6C1?style=for-the-badge&labelColor=101525&logo=android&logoColor=55E6C1" alt="Download PermAware APK"></a>
-  <a href="https://github.com/vazovsky17/PermAware"><img src="https://img.shields.io/badge/Explore-source-9B8CFF?style=for-the-badge&labelColor=101525&logo=github&logoColor=9B8CFF" alt="Explore PermAware source"></a>
-  <a href="https://github.com/vazovsky17/PermAware/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-7FA7FF?style=for-the-badge&labelColor=101525&logo=githubactions&logoColor=7FA7FF" alt="PermAware v1.0.0 release"></a>
+  <a href="https://github.com/vazovsky17/vazovsky17/releases/download/vazie-vpn-v0.1.0/VazieVPN.apk"><img src="https://img.shields.io/badge/Download-APK-55E6C1?style=for-the-badge&labelColor=101525&logo=android&logoColor=55E6C1" alt="Download Vazie VPN APK"></a>
+  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Open-repository-9B8CFF?style=for-the-badge&labelColor=101525&logo=github&logoColor=9B8CFF" alt="Open the Vazie VPN repository"></a>
+  <a href="https://github.com/vazovsky17/vazovsky17/releases/tag/vazie-vpn-v0.1.0"><img src="https://img.shields.io/badge/Release-v0.1.0-7FA7FF?style=for-the-badge&labelColor=101525&logo=githubactions&logoColor=7FA7FF" alt="Vazie VPN v0.1.0 release"></a>
+  <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Project-log-263252?style=for-the-badge&labelColor=101525&logo=telegram&logoColor=55E6C1" alt="Vazie project log on Telegram"></a>
 </p>
-
-> PermAware is an inspector, not an antivirus or a fear score. A permission is context, not a verdict.
 
 <br>
 
@@ -71,21 +42,32 @@ The domain layer is plain Kotlin; Android framework types stop at `data/platform
 
 | Build | Signal | Engineering focus |
 | :-- | :-- | :-- |
-| **VPN** | Bring your own configuration | Android networking, secure local storage |
+| **[VPN](https://github.com/vazovsky17/VazieVPN)** · *in testing* | Bring your own configuration | Android networking, secure local storage |
 | **Rhythm** | Medication schedules and habits | Offline state, reliable reminders |
-| **Keep** | Password manager for `kdbx` vaults | Files stay where the user puts them |
+| **[Keep](https://github.com/vazovsky17/VazieKeep)** · *in development* | Your `.kdbx` vault, without surrendering it to a service | Kotlin · Compose · user-owned files · no account or server |
 | **Letter** | Email without a feed | Calm information architecture |
-| **[Relay](https://github.com/vazovsky17/VazieRelay)** | Android ↔ iOS device link | Kotlin Multiplatform core, native UI on both sides |
+| **Relay** · *in development* | Android ↔ iOS device link | Kotlin Multiplatform core, native UI on both sides |
+
+**Also building: [Vazie Keep](https://github.com/vazovsky17/VazieKeep).** A password manager should not turn your vault into a subscription. Keep starts with a simpler contract: open the `.kdbx` file you chose, keep it where you chose, and never require an account, server or proprietary cloud. The Android foundation is now public — Kotlin, Compose and Material 3, built local-first from the first commit.
 
 <p>
-  <a href="https://github.com/vazovsky17/vazovsky17/releases/latest/download/VazieVPN.apk"><img src="https://img.shields.io/badge/Vazie_VPN-download_APK-55E6C1?style=flat-square&labelColor=101525&logo=android&logoColor=55E6C1" alt="Download Vazie VPN APK"></a>
-  <a href="https://github.com/vazovsky17/VazieRelay"><img src="https://img.shields.io/badge/Vazie_Relay-source-9B8CFF?style=flat-square&labelColor=101525&logo=github&logoColor=9B8CFF" alt="Vazie Relay source"></a>
+  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Vazie_VPN-public_repo-55E6C1?style=flat-square&labelColor=101525&logo=github&logoColor=55E6C1" alt="Open the public Vazie VPN repository"></a>
+  <a href="https://github.com/vazovsky17/vazovsky17/releases/download/vazie-vpn-v0.1.0/VazieVPN.apk"><img src="https://img.shields.io/badge/Vazie_VPN-download_APK-7FA7FF?style=flat-square&labelColor=101525&logo=android&logoColor=7FA7FF" alt="Download Vazie VPN APK"></a>
+  <a href="https://github.com/vazovsky17/VazieKeep"><img src="https://img.shields.io/badge/Vazie_Keep-follow_the_build-55E6C1?style=flat-square&labelColor=101525&logo=keepassxc&logoColor=55E6C1" alt="Explore Vazie Keep source"></a>
   <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/project_log-@vazieapp-7FA7FF?style=flat-square&labelColor=101525&logo=telegram&logoColor=7FA7FF" alt="Vazie project log on Telegram"></a>
 </p>
 
 <br>
 
-## `03 // engineering profile`
+## `03 // public repositories`
+
+[**VazieVPN**](https://github.com/vazovsky17/VazieVPN) ·
+[**VazieKeep**](https://github.com/vazovsky17/VazieKeep) ·
+[**PermAware**](https://github.com/vazovsky17/PermAware)
+
+<br>
+
+## `04 // engineering profile`
 
 | Native mobile | Shared systems | Delivery |
 | :-- | :-- | :-- |
@@ -106,7 +88,9 @@ I care about the parts that survive the demo: state ownership, failure modes, ba
 
 <br>
 
-## `04 // telemetry`
+## `05 // telemetry`
+
+### The counters move. The standard for publishing does not.
 
 <p>
   <img src="https://img.shields.io/github/followers/vazovsky17?style=flat-square&logo=github&logoColor=55E6C1&label=followers&labelColor=101525&color=263252" alt="GitHub followers">
@@ -114,7 +98,11 @@ I care about the parts that survive the demo: state ownership, failure modes, ba
   <img src="https://komarev.com/ghpvc/?username=vazovsky17&style=flat-square&label=profile+views&labelColor=101525&color=263252" alt="Profile views">
 </p>
 
-Public work is the visible edge of a larger private monorepo. Projects move into the open when their architecture, build and documentation are ready to be useful outside my machine.
+These numbers are live, but they are not the metric I build for. Most work begins in a private monorepo, where ideas are allowed to be incomplete, renamed or discarded without ceremony.
+
+A project crosses into public view only when someone else can **understand the architecture, reproduce the build and learn from the decisions** — not merely scroll through a commit history. What appears here is the released edge of a much larger workshop.
+
+`prototype in private` → `measure real behavior` → `stabilize the boundaries` → `document the why` → **`publish`**
 
 <br>
 
