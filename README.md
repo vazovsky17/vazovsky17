@@ -59,18 +59,7 @@ The Vazie foundations are now public. Each app starts with a useful local core; 
 
 <br>
 
-## `03 // public repositories`
-
-[**VazieVPN**](https://github.com/vazovsky17/VazieVPN) ·
-[**VazieKeep**](https://github.com/vazovsky17/VazieKeep) ·
-[**VazieRhythm**](https://github.com/vazovsky17/VazieRhythm) ·
-[**VazieLetter**](https://github.com/vazovsky17/VazieLetter) ·
-[**VazieRelay**](https://github.com/vazovsky17/VazieRelay) ·
-[**PermAware**](https://github.com/vazovsky17/PermAware)
-
-<br>
-
-## `04 // engineering profile`
+## `03 // engineering profile`
 
 | Native mobile | Shared systems | Delivery |
 | :-- | :-- | :-- |
@@ -91,7 +80,7 @@ I care about the parts that survive the demo: state ownership, failure modes, ba
 
 <br>
 
-## `05 // telemetry`
+## `04 // telemetry`
 
 ### The counters move. The standard for publishing does not.
 
