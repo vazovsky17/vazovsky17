@@ -25,12 +25,16 @@ Android is home ground. iOS is the next native surface. Shared logic belongs in 
 
 ## `01 // current signal` — [Vazie VPN](https://github.com/vazovsky17/VazieVPN)
 
-`Android` · `v0.1.0` · `in testing` · `bring your own configuration`
+`Android 9+` · `v1.0.0` · `released` · `VLESS` · `bring your own configuration or use VPN Plus`
+
+Vazie VPN is a native Android client for VLESS. Your own configuration works free and without an account; **VPN Plus** adds Vazie-managed servers with one-off monthly or yearly payments and no auto-renewal.
+
+The first stable release includes split tunneling, packet/DNS/TLS health checks, encrypted local configuration storage, a Quick Settings tile, Glance widgets, launcher shortcuts, built-in guides, two themes and English/Russian localization. The app is built as 23 Gradle modules and backed by 950+ tests.
 
 <p>
-  <a href="https://github.com/vazovsky17/vazovsky17/releases/download/vazie-vpn-v0.1.0/VazieVPN.apk"><img src="https://img.shields.io/badge/Download-APK-55E6C1?style=for-the-badge&labelColor=101525&logo=android&logoColor=55E6C1" alt="Download Vazie VPN APK"></a>
+  <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Download-APK-55E6C1?style=for-the-badge&labelColor=101525&logo=android&logoColor=55E6C1" alt="Download Vazie VPN APK"></a>
   <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Open-repository-9B8CFF?style=for-the-badge&labelColor=101525&logo=github&logoColor=9B8CFF" alt="Open the Vazie VPN repository"></a>
-  <a href="https://github.com/vazovsky17/vazovsky17/releases/tag/vazie-vpn-v0.1.0"><img src="https://img.shields.io/badge/Release-v0.1.0-7FA7FF?style=for-the-badge&labelColor=101525&logo=githubactions&logoColor=7FA7FF" alt="Vazie VPN v0.1.0 release"></a>
+  <a href="https://github.com/vazovsky17/VazieVPN/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-7FA7FF?style=for-the-badge&labelColor=101525&logo=githubactions&logoColor=7FA7FF" alt="Vazie VPN v1.0.0 release"></a>
   <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Project-log-263252?style=for-the-badge&labelColor=101525&logo=telegram&logoColor=55E6C1" alt="Vazie project log on Telegram"></a>
 </p>
 
@@ -38,22 +42,22 @@ Android is home ground. iOS is the next native surface. Shared logic belongs in 
 
 ## `02 // product lab` — Vazie
 
-**Vazie** is my local-first product lab: focused apps, native interfaces and no pressure to turn every useful tool into a social platform.
+**Vazie** is my local-first product lab: focused apps, native interfaces and no pressure to turn every useful tool into a social platform. One product is shipping today; the rest are shown at their actual stage rather than presented as finished apps.
 
 | Build | Signal | Engineering focus |
 | :-- | :-- | :-- |
-| **[VPN](https://github.com/vazovsky17/VazieVPN)** · *in testing* | Vazie subscription or your own configuration | Android networking, secure local storage |
-| **[Rhythm](https://github.com/vazovsky17/VazieRhythm)** · *in development* | Local-first medication schedules and habits | Offline state, reliable reminders, optional sync |
-| **[Keep](https://github.com/vazovsky17/VazieKeep)** · *in development* | Your `.kdbx` vault, without surrendering it to a service | Kotlin · Compose · user-owned files · optional services |
-| **[Letter](https://github.com/vazovsky17/VazieLetter)** · *in development* | Calm, local-first email | Single-account core, optional multi-account access |
-| **[Relay](https://github.com/vazovsky17/VazieRelay)** · *in development* | Android ↔ iOS device link | Kotlin Multiplatform core, native UI on both sides |
+| **[VPN](https://github.com/vazovsky17/VazieVPN)** · *v1.0.0 released* | Your own VLESS configuration for free, or managed servers with VPN Plus | Android `VpnService`, Xray, encrypted storage, tunnel health probes |
+| **[Relay](https://github.com/vazovsky17/VazieRelay)** · *bootstrap* | Android ↔ iOS device link; user-facing transfer is not implemented yet | Kotlin Multiplatform core, Compose on Android, SwiftUI on iOS, early LAN discovery |
+| **[Keep](https://github.com/vazovsky17/VazieKeep)** · *concept* | Your `.kdbx` vault, without surrendering it to a service | User-owned files, native Android UI, optional services |
+| **[Rhythm](https://github.com/vazovsky17/VazieRhythm)** · *concept* | Local-first medication schedules and habits | Offline state, reliable reminders, optional sync |
+| **[Letter](https://github.com/vazovsky17/VazieLetter)** · *concept* | Calm, local-first email | Single-account core, optional multi-account access |
 
-The Vazie foundations are now public. Each app starts with a useful local core; subscriptions pay for service-backed capabilities rather than access to your own data. VPN can use Vazie servers or your own configuration, Rhythm keeps tracking available offline with optional sync, Letter adds multi-account access as an upgrade, and Keep leaves the `.kdbx` vault in storage you control. Relay is the shared Android ↔ iOS link underneath the wider product direction.
+The rule across the lab is simple: the local core stays useful on its own, while paid features cover capabilities that require an operated service. VPN is the first complete expression of that model. Its Android client is source-available, while the Kotlin control plane, website and infrastructure operate VPN Plus. Relay is an early cross-platform foundation; Keep, Rhythm and Letter remain product directions, not downloadable releases.
 
 <p>
   <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Vazie_VPN-public_repo-55E6C1?style=flat-square&labelColor=101525&logo=github&logoColor=55E6C1" alt="Open the public Vazie VPN repository"></a>
-  <a href="https://github.com/vazovsky17/vazovsky17/releases/download/vazie-vpn-v0.1.0/VazieVPN.apk"><img src="https://img.shields.io/badge/Vazie_VPN-download_APK-7FA7FF?style=flat-square&labelColor=101525&logo=android&logoColor=7FA7FF" alt="Download Vazie VPN APK"></a>
-  <a href="https://github.com/vazovsky17/VazieKeep"><img src="https://img.shields.io/badge/Vazie_Keep-follow_the_build-55E6C1?style=flat-square&labelColor=101525&logo=keepassxc&logoColor=55E6C1" alt="Explore Vazie Keep source"></a>
+  <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Vazie_VPN-download_APK-7FA7FF?style=flat-square&labelColor=101525&logo=android&logoColor=7FA7FF" alt="Download Vazie VPN APK"></a>
+  <a href="https://github.com/vazovsky17/VazieRelay"><img src="https://img.shields.io/badge/Vazie_Relay-follow_the_build-55E6C1?style=flat-square&labelColor=101525&logo=github&logoColor=55E6C1" alt="Follow the Vazie Relay build"></a>
   <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/project_log-@vazieapp-7FA7FF?style=flat-square&labelColor=101525&logo=telegram&logoColor=7FA7FF" alt="Vazie project log on Telegram"></a>
 </p>
 
