@@ -1,106 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="title desc">
-  <title id="title">Vazovsky — mobile systems</title>
-  <desc id="desc">Native Android and iOS engineering, Kotlin Multiplatform and privacy by architecture.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Vazovsky — Android developer и product builder</title>
+  <desc id="desc">Kotlin, Jetpack Compose и Android SDK. Собственные продукты Vazie и клиентские Android-проекты. Схематичный макет экрана Vazie VPN.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080B14"/>
-      <stop offset="0.55" stop-color="#101525"/>
-      <stop offset="1" stop-color="#171331"/>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0" stop-color="#00BBFF"/>
+      <stop offset="0.55" stop-color="#4477FF"/>
+      <stop offset="1" stop-color="#8B66FF"/>
     </linearGradient>
-    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F5F8FF"/>
-      <stop offset="0.58" stop-color="#D9D7FF"/>
-      <stop offset="1" stop-color="#9B8CFF"/>
+    <linearGradient id="topLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00BBFF" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#4477FF"/>
+      <stop offset="0.75" stop-color="#8B66FF"/>
+      <stop offset="1" stop-color="#8B66FF" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#55E6C1" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#55E6C1"/>
-      <stop offset="1" stop-color="#9B8CFF" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="cyanGlow" cx="0.82" cy="0.44" r="0.42">
-      <stop offset="0" stop-color="#55E6C1" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#55E6C1" stop-opacity="0"/>
+    <radialGradient id="blueGlow" cx="0.2" cy="0.05" r="0.6">
+      <stop offset="0" stop-color="#4477FF" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#4477FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="violetGlow" cx="0.58" cy="0.08" r="0.62">
-      <stop offset="0" stop-color="#9B8CFF" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#9B8CFF" stop-opacity="0"/>
+    <radialGradient id="violetGlow" cx="0.86" cy="0.55" r="0.42">
+      <stop offset="0" stop-color="#8B66FF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8B66FF" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#7984B0" stroke-opacity="0.08" stroke-width="1"/>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#8891A6" stroke-opacity="0.07"/>
     </pattern>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <clipPath id="frame">
-      <rect width="1200" height="360" rx="24"/>
+      <rect width="1200" height="420" rx="24"/>
     </clipPath>
   </defs>
 
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <rect width="1200" height="360" fill="url(#violetGlow)"/>
-    <rect width="1200" height="360" fill="url(#cyanGlow)"/>
-    <path d="M0 1.5H1200" stroke="url(#accentLine)" stroke-width="3"/>
+  <g clip-path="url(#frame)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <rect width="1200" height="420" fill="#04070F"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+    <rect width="1200" height="420" fill="url(#blueGlow)"/>
+    <rect width="1200" height="420" fill="url(#violetGlow)"/>
+    <rect width="1200" height="3" fill="url(#topLine)"/>
 
-    <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
-      <g transform="translate(64 54)">
-        <circle cx="5" cy="5" r="5" fill="#55E6C1"/>
-        <text x="21" y="10" font-size="13" letter-spacing="3.2" fill="#8D98BE">SYSTEM ONLINE / SARATOV UTC+4</text>
-      </g>
+    <!-- nav-style logo -->
+    <text x="64" y="64" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#F5F7FC">vazovsky<tspan fill="#5A8CFF">.pro()</tspan></text>
 
-      <text x="62" y="144" font-size="68" font-weight="700" letter-spacing="-2" fill="url(#titleGradient)">vazovsky<tspan fill="#55E6C1">_</tspan></text>
-      <text x="66" y="186" font-size="19" letter-spacing="1.4" fill="#B8C1DF">MOBILE SYSTEMS ENGINEER</text>
-      <text x="66" y="222" font-size="15" fill="#7783AA">native interfaces · shared cores · private data</text>
-
-      <g transform="translate(66 264)" font-size="12" letter-spacing="1.2">
-        <g>
-          <rect width="116" height="32" rx="6" fill="#55E6C1" fill-opacity="0.08" stroke="#55E6C1" stroke-opacity="0.42"/>
-          <text x="16" y="21" fill="#84F1D5">ANDROID</text>
-        </g>
-        <g transform="translate(128)">
-          <rect width="90" height="32" rx="6" fill="#9B8CFF" fill-opacity="0.08" stroke="#9B8CFF" stroke-opacity="0.42"/>
-          <text x="18" y="21" fill="#B8AEFF">iOS</text>
-        </g>
-        <g transform="translate(230)">
-          <rect width="90" height="32" rx="6" fill="#9B8CFF" fill-opacity="0.08" stroke="#9B8CFF" stroke-opacity="0.42"/>
-          <text x="22" y="21" fill="#B8AEFF">KMP</text>
-        </g>
-        <g transform="translate(332)">
-          <rect width="204" height="32" rx="6" fill="#7FA7FF" fill-opacity="0.08" stroke="#7FA7FF" stroke-opacity="0.38"/>
-          <text x="17" y="21" fill="#9BBCFF">LOCAL-FIRST / CI</text>
-        </g>
-      </g>
+    <!-- availability pill -->
+    <g transform="translate(64 92)">
+      <rect width="196" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <circle cx="20" cy="17" r="4" fill="#5BE3A0"/>
+      <text x="34" y="22" font-size="14" fill="#C9D1E6">Беру новые задачи</text>
     </g>
 
-    <g transform="translate(780 34)">
-      <rect x="0" y="0" width="354" height="292" rx="18" fill="#090D18" fill-opacity="0.74" stroke="#7080AA" stroke-opacity="0.26"/>
-      <path d="M18 50H336" stroke="#7080AA" stroke-opacity="0.2"/>
-      <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">
-        <circle cx="23" cy="25" r="4" fill="#55E6C1"/>
-        <text x="38" y="30" font-size="12" letter-spacing="2" fill="#AAB4D3">CURRENT SIGNAL</text>
-        <text x="286" y="30" font-size="11" fill="#55E6C1">PUBLIC</text>
+    <text x="60" y="214" font-size="96" font-weight="800" letter-spacing="-4" fill="url(#name)">Vazovsky</text>
+    <text x="64" y="262" font-size="29" font-weight="650" fill="#F5F7FC">Android developer и product builder</text>
+    <text x="64" y="304" font-size="16" fill="#8891A6">Kotlin, Jetpack Compose и Android SDK — а ещё backend, инфраструктура, релиз.</text>
 
-        <text x="177" y="124" text-anchor="middle" font-size="13" letter-spacing="4" fill="#7F8BAF">VAZIE</text>
-        <text x="177" y="172" text-anchor="middle" font-size="42" font-weight="700" letter-spacing="1" fill="#F2F8FF">VPN</text>
-        <path d="M103 192H251" stroke="url(#accentLine)" stroke-width="2"/>
-        <text x="177" y="218" text-anchor="middle" font-size="10" letter-spacing="2" fill="#B8AEFF">ANDROID CLIENT</text>
-
-        <g transform="translate(24 242)" font-size="10">
-          <text x="0" y="0" fill="#6F7A9C">REPO</text>
-          <text x="0" y="21" fill="#55E6C1">PUBLIC</text>
-          <text x="113" y="0" fill="#6F7A9C">RELEASE</text>
-          <text x="113" y="21" fill="#E0E5F4">v0.1.0</text>
-          <text x="218" y="0" fill="#6F7A9C">STATUS</text>
-          <text x="218" y="21" fill="#B8AEFF">TESTING</text>
-        </g>
-      </g>
+    <!-- stack chips -->
+    <g transform="translate(64 330)" font-size="13" fill="#B9C2D8" text-anchor="middle">
+      <g><rect width="72" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#8891A6" stroke-opacity="0.35"/><text x="36" y="20">Kotlin</text></g>
+      <g transform="translate(82)"><rect width="132" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#8891A6" stroke-opacity="0.35"/><text x="66" y="20">Jetpack Compose</text></g>
+      <g transform="translate(224)"><rect width="128" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#8891A6" stroke-opacity="0.35"/><text x="64" y="20">Coroutines / Flow</text></g>
+      <g transform="translate(362)"><rect width="104" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#8891A6" stroke-opacity="0.35"/><text x="52" y="20">Spring Boot</text></g>
+      <g transform="translate(476)"><rect width="74" height="30" rx="8" fill="#FFFFFF" fill-opacity="0.04" stroke="#8891A6" stroke-opacity="0.35"/><text x="37" y="20">Docker</text></g>
     </g>
 
-    <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#465170">
-      <text x="1138" y="346" text-anchor="end">BUILD 2026.09</text>
+    <!-- Vazie VPN mockup -->
+    <g transform="translate(880 30)">
+      <rect width="230" height="360" rx="34" fill="#080D1B" stroke="#8891A6" stroke-opacity="0.3"/>
+      <text x="24" y="50" font-size="14" font-weight="650" fill="#F5F7FC">Vazie VPN</text>
+
+      <rect x="16" y="66" width="198" height="106" rx="16" fill="#4CB0FF" fill-opacity="0.08" stroke="#4CB0FF" stroke-opacity="0.38"/>
+      <circle cx="34" cy="90" r="4" fill="#5BE3A0"/>
+      <text x="46" y="95" font-size="13" font-weight="600" fill="#F5F7FC">Подключено</text>
+      <text x="32" y="116" font-size="11" fill="#8891A6">VLESS · Netherlands</text>
+      <rect x="30" y="130" width="170" height="30" rx="15" fill="none" stroke="#4CB0FF" stroke-opacity="0.55"/>
+      <text x="115" y="150" font-size="12" text-anchor="middle" fill="#8CCBFF">Отключиться</text>
+
+      <text x="18" y="203" font-size="10" letter-spacing="1.4" fill="#8891A6">СЕРВЕРЫ VAZIE</text>
+
+      <g font-size="12">
+        <g transform="translate(16 214)">
+          <rect width="198" height="38" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+          <rect x="8" y="8" width="22" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.08"/>
+          <text x="19" y="23" font-size="9" text-anchor="middle" fill="#B9C2D8">NL</text>
+          <text x="40" y="24" fill="#F5F7FC">Netherlands</text>
+          <text x="188" y="24" font-size="10" text-anchor="end" fill="#5BE3A0">Подключено</text>
+        </g>
+        <g transform="translate(16 258)">
+          <rect width="198" height="38" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+          <rect x="8" y="8" width="22" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.08"/>
+          <text x="19" y="23" font-size="9" text-anchor="middle" fill="#B9C2D8">SE</text>
+          <text x="40" y="24" fill="#F5F7FC">Sweden</text>
+          <text x="188" y="24" font-size="10" text-anchor="end" fill="#8891A6">Готова</text>
+        </g>
+        <g transform="translate(16 302)">
+          <rect width="198" height="38" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+          <rect x="8" y="8" width="22" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.08"/>
+          <text x="19" y="23" font-size="9" text-anchor="middle" fill="#B9C2D8">US</text>
+          <text x="40" y="24" fill="#F5F7FC">United States</text>
+          <text x="188" y="24" font-size="10" text-anchor="end" fill="#8891A6">Готова</text>
+        </g>
+      </g>
     </g>
   </g>
 </svg>

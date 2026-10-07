@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">How PermAware turns Android permissions into a private, readable history</title>
+  <desc id="desc">An animated local-only pipeline: Android packages are scanned, permissions are interpreted, snapshots are compared, and results stay in a local Room database before appearing in the interface or an explicitly shared report.</desc>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) { .motion { display: none; } }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04070F"/>
+      <stop offset="0.56" stop-color="#080D1B"/>
+      <stop offset="1" stop-color="#120E2B"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4CB0FF"/>
+      <stop offset="0.55" stop-color="#4477FF"/>
+      <stop offset="1" stop-color="#8B66FF"/>
+    </linearGradient>
+    <radialGradient id="mintGlow">
+      <stop offset="0" stop-color="#4CB0FF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#4CB0FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#8190BD" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="420" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+    <circle cx="1000" cy="210" r="270" fill="url(#mintGlow)"/>
+    <path d="M0 1.5H1200" stroke="url(#signal)" stroke-width="3"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+      <circle cx="42" cy="38" r="5" fill="#4CB0FF">
+        <animate class="motion" attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="58" y="43" font-size="13" letter-spacing="2.4" fill="#AAB4D3">PERMAWARE / LOCAL SIGNAL PATH</text>
+      <text x="1158" y="43" text-anchor="end" font-size="11" letter-spacing="1.5" fill="#4CB0FF">NETWORK: NOT REQUESTED</text>
+
+      <g transform="translate(42 86)">
+        <rect width="196" height="244" rx="18" fill="#090D18" fill-opacity=".88" stroke="#4CB0FF" stroke-opacity=".34"/>
+        <rect x="14" y="14" width="168" height="216" rx="12" fill="#11182A" stroke="#7180AB" stroke-opacity=".2"/>
+        <text x="28" y="43" font-size="10" letter-spacing="1.4" fill="#7280A6">ANDROID DEVICE</text>
+        <text x="28" y="72" font-size="18" font-weight="700" fill="#F2F6FF">473 packages</text>
+        <g transform="translate(28 98)">
+          <rect width="140" height="11" rx="5.5" fill="#25304A"/>
+          <rect width="112" height="11" rx="5.5" fill="#4CB0FF" fill-opacity=".72">
+            <animate class="motion" attributeName="width" values="18;112;112" keyTimes="0;.72;1" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+          <rect y="31" width="112" height="8" rx="4" fill="#29344E"/>
+          <rect y="55" width="92" height="8" rx="4" fill="#29344E"/>
+          <rect y="79" width="126" height="8" rx="4" fill="#29344E"/>
+          <rect y="103" width="76" height="8" rx="4" fill="#29344E"/>
+          <rect x="0" y="31" width="34" height="8" rx="4" fill="#8B66FF" fill-opacity=".82"/>
+          <rect x="0" y="55" width="57" height="8" rx="4" fill="#4477FF" fill-opacity=".82"/>
+          <rect x="0" y="79" width="88" height="8" rx="4" fill="#4CB0FF" fill-opacity=".72"/>
+          <rect x="0" y="103" width="22" height="8" rx="4" fill="#8B66FF" fill-opacity=".82"/>
+        </g>
+        <text x="28" y="218" font-size="10" fill="#7180A6">PackageManager boundary</text>
+      </g>
+
+      <path id="route" d="M250 208H314C338 208 338 154 362 154H552C576 154 576 266 600 266H790C814 266 814 208 838 208H952" fill="none" stroke="#35415F" stroke-width="3" stroke-linecap="round"/>
+      <path d="M250 208H314C338 208 338 154 362 154H552C576 154 576 266 600 266H790C814 266 814 208 838 208H952" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 16" opacity=".72">
+        <animate class="motion" attributeName="stroke-dashoffset" values="48;0" dur="2.2s" repeatCount="indefinite"/>
+      </path>
+      <circle r="6" fill="#F5F8FF" stroke="#4CB0FF" stroke-width="3" filter="url(#glow)">
+        <animateMotion class="motion" dur="4.8s" repeatCount="indefinite"><mpath href="#route"/></animateMotion>
+      </circle>
+
+      <g transform="translate(330 105)">
+        <rect width="250" height="98" rx="14" fill="#10182A" stroke="#4477FF" stroke-opacity=".4"/>
+        <text x="18" y="26" font-size="10" letter-spacing="1.3" fill="#7885AA">01 / INTERPRET</text>
+        <text x="18" y="55" font-size="17" font-weight="700" fill="#F1F4FF">Permission context</text>
+        <text x="18" y="78" font-size="11" fill="#9DA8C8">granted · requested · special access</text>
+      </g>
+
+      <g transform="translate(568 217)">
+        <rect width="250" height="98" rx="14" fill="#10182A" stroke="#8B66FF" stroke-opacity=".42"/>
+        <text x="18" y="26" font-size="10" letter-spacing="1.3" fill="#7885AA">02 / COMPARE</text>
+        <text x="18" y="55" font-size="17" font-weight="700" fill="#F1F4FF">Snapshot diff</text>
+        <text x="18" y="78" font-size="11" fill="#9DA8C8">new · removed · changed since scan</text>
+      </g>
+
+      <g transform="translate(930 90)">
+        <path d="M22 22C22 9 198 9 198 22V198C198 211 22 211 22 198Z" fill="#0C1220" stroke="#4CB0FF" stroke-opacity=".45"/>
+        <ellipse cx="110" cy="22" rx="88" ry="18" fill="#17243A" stroke="#4CB0FF" stroke-opacity=".62"/>
+        <path d="M22 72C22 85 198 85 198 72M22 122C22 135 198 135 198 122M22 172C22 185 198 185 198 172" fill="none" stroke="#4CB0FF" stroke-opacity=".2"/>
+        <text x="110" y="107" text-anchor="middle" font-size="19" font-weight="700" fill="#F2F8FF">LOCAL HISTORY</text>
+        <text x="110" y="132" text-anchor="middle" font-size="11" letter-spacing="1.1" fill="#4CB0FF">ROOM / ON DEVICE</text>
+        <text x="110" y="160" text-anchor="middle" font-size="10" fill="#8490B1">UI + explicit share</text>
+        <circle cx="110" cy="22" r="5" fill="#4CB0FF" filter="url(#glow)">
+          <animate class="motion" attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+          <animate class="motion" attributeName="opacity" values="1;.45;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g transform="translate(330 350)">
+        <rect width="168" height="34" rx="7" fill="#4CB0FF" fill-opacity=".08" stroke="#4CB0FF" stroke-opacity=".3"/>
+        <text x="84" y="22" text-anchor="middle" font-size="10" letter-spacing="1.2" fill="#8CCBFF">PLAIN KOTLIN CORE</text>
+      </g>
+      <g transform="translate(512 350)">
+        <rect width="173" height="34" rx="7" fill="#8B66FF" fill-opacity=".08" stroke="#8B66FF" stroke-opacity=".3"/>
+        <text x="86" y="22" text-anchor="middle" font-size="10" letter-spacing="1.2" fill="#B7A0FF">194 TESTS PASSING</text>
+      </g>
+      <g transform="translate(699 350)">
+        <rect width="185" height="34" rx="7" fill="#4477FF" fill-opacity=".08" stroke="#4477FF" stroke-opacity=".3"/>
+        <text x="92" y="22" text-anchor="middle" font-size="10" letter-spacing="1.2" fill="#7FA3FF">NO ANALYTICS SDK</text>
+      </g>
+    </g>
+  </g>
+</svg>
