@@ -1,136 +1,136 @@
 <div align="center">
 
-<a href="https://vazovsky.pro"><img src="assets/header.svg" alt="Vazovsky — Android developer и product builder.." width="100%"></a>
+<a href="https://vazovsky.pro"><img src="assets/header.svg" alt="Vazovsky — Android developer and product builder." width="100%"></a>
 
 <br>
 
-<a href="https://vazovsky.pro"><img src="https://img.shields.io/badge/vazovsky.pro-сайт-4CB0FF?style=for-the-badge&labelColor=04070F&logo=safari&logoColor=4CB0FF" alt="Сайт vazovsky.pro"></a>
+<a href="https://vazovsky.pro"><img src="https://img.shields.io/badge/vazovsky.pro-website-4CB0FF?style=for-the-badge&labelColor=04070F&logo=safari&logoColor=4CB0FF" alt="Website vazovsky.pro"></a>
 <a href="https://t.me/vazovsky17"><img src="https://img.shields.io/badge/Telegram-@vazovsky17-04070F?style=for-the-badge&logo=telegram&logoColor=4CB0FF" alt="Telegram @vazovsky17"></a>
 <a href="mailto:vazovsky.hub@gmail.com"><img src="https://img.shields.io/badge/Email-04070F?style=for-the-badge&logo=gmail&logoColor=8B66FF" alt="Email vazovsky.hub@gmail.com"></a>
 <a href="https://www.behance.net/vazovsky17"><img src="https://img.shields.io/badge/Behance-04070F?style=for-the-badge&logo=behance&logoColor=4477FF" alt="Behance vazovsky17"></a>
 
 <br><br>
 
-**Пишу на Kotlin, Jetpack Compose и Android SDK.**<br>
-Делаю не только интерфейс приложения, но и backend, инфраструктуру, релиз и публикацию.<br>
-Создаю собственные продукты.
+**I write Kotlin, Jetpack Compose and Android SDK.**<br>
+Not just the app interface, but also the backend, infrastructure, release and publishing.<br>
+I build my own products.
 
 <br>
 
-**[Больше о проектах на vazovsky.pro →](https://vazovsky.pro)**
+**[More about my projects at vazovsky.pro →](https://vazovsky.pro)**
 
 </div>
 
 <br>
 
-`ГЛАВНЫЙ ПРОЕКТ · СОБСТВЕННЫЙ ПРОДУКТ`
+`MAIN PROJECT · OWN PRODUCT`
 
-## [Vazie](https://vazie.app) — собственная экосистема local-first приложений
+## [Vazie](https://vazie.app) — a local-first app ecosystem
 
-Vazie — мой собственный продукт: небольшая экосистема приложений, в которых данные остаются на устройстве, а аккаунт не обязателен. Первый выпущенный продукт — **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, нативный Android-клиент для VLESS.
+Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. The first released product is **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, a native Android client for VLESS.
 
 <p>
-  <a href="https://vazie.app"><img src="https://img.shields.io/badge/Открыть-vazie.app-4CB0FF?style=for-the-badge&labelColor=04070F&logo=android&logoColor=4CB0FF" alt="Открыть vazie.app"></a>
-  <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Vazie_VPN-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Скачать Vazie VPN"></a>
-  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Исходный_код-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Репозиторий Vazie VPN"></a>
-  <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Журнал-@vazieapp-04070F?style=for-the-badge&logo=telegram&logoColor=4CB0FF" alt="Журнал проекта Vazie в Telegram"></a>
+  <a href="https://vazie.app"><img src="https://img.shields.io/badge/Open-vazie.app-4CB0FF?style=for-the-badge&labelColor=04070F&logo=android&logoColor=4CB0FF" alt="Open vazie.app"></a>
+  <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Vazie_VPN-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie VPN"></a>
+  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie VPN repository"></a>
+  <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Log-@vazieapp-04070F?style=for-the-badge&logo=telegram&logoColor=4CB0FF" alt="Vazie project log on Telegram"></a>
 </p>
 
-| Продукт | О чём | Статус |
+| Product | What it is | Status |
 | :-- | :-- | :-- |
-| **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)** | VPN-клиент для своей конфигурации VLESS | **Выпущен · v1.0.0** |
-| **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)** | Менеджер паролей для файлов `.kdbx` | Скоро |
-| **[Vazie Relay](https://github.com/vazovsky17/VazieRelay)** | Файлы между своими устройствами по локальной сети | Ранняя стадия |
-| **[Vazie Rhythm](https://github.com/vazovsky17/VazieRhythm)** | Привычки и рутины, всё хранится локально | Концепт |
-| **[Vazie Letter](https://github.com/vazovsky17/VazieLetter)** | Спокойный почтовый клиент | Концепт |
+| **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)** | VPN client for your own VLESS configuration | **Released · v1.0.0** |
+| **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)** | Password manager for `.kdbx` files | Coming soon |
+| **[Vazie Relay](https://github.com/vazovsky17/VazieRelay)** | Files between your own devices over the local network | Early stage |
+| **[Vazie Rhythm](https://github.com/vazovsky17/VazieRhythm)** | Habits and routines, stored locally | Concept |
+| **[Vazie Letter](https://github.com/vazovsky17/VazieLetter)** | A calm email client | Concept |
 
-Правило экосистемы простое: бесплатная версия работает без аккаунта, данные остаются у пользователя, а платными делаются только возможности, для которых нужен работающий сервис.
+The rule across the ecosystem is simple: the free version works without an account, data stays with the user, and only capabilities that need a running service are paid.
 
 <br>
 
-`КЕЙСЫ`
+`CASES`
 
-## Что именно я делала в этих продуктах
+## What I actually did in these products
 
-Собственные проекты, которые можно открыть и проверить: код на GitHub, дизайн-кейсы на Behance. Без клиентских логотипов и цифр, которые нельзя подтвердить.
+Own projects you can open and check: code on GitHub, design cases on Behance. No client logos and no numbers that cannot be verified.
 
-### 01 · Vazie VPN — нативный Android VPN-клиент
+### 01 · Vazie VPN — a native Android VPN client
 
-`Выпущен · v1.0.0` · `APK на vazie.app`
+`Released · v1.0.0` · `APK on vazie.app`
 
-> **Задача.** У человека уже есть ссылка `vless://` от своего или арендованного сервера. Нужен клиент, который поднимет через неё туннель без аккаунта и рекламы — и честно скажет, если соединение не работает.
+> **Problem.** Someone already has a `vless://` link from their own or a rented server. They need a client that brings up a tunnel through it with no account and no ads — and says honestly when the connection does not work.
 
-**Что сделала:** весь продукт — Android-приложение, backend на Kotlin, сайт и серверы для платного тарифа VPN Plus.
+**What I did:** the whole product — the Android app, the Kotlin backend, the website and the servers for the paid VPN Plus plan.
 
-- 23 Gradle-модуля; границы между ними проверяет convention-плагин на каждой сборке
-- После подключения приложение отдельно проверяет пакеты, DNS и TLS и показывает, что именно не работает
-- Конфигурации зашифрованы ключом из Android Keystore, системный бэкап отключён
-- CI вскрывает release-APK и останавливает сборку, если внутри нашёлся секрет или отладочный инструмент
+- 23 Gradle modules; a convention plugin checks the boundaries between them on every build
+- After connecting, the app separately checks packets, DNS and TLS and shows exactly what is failing
+- Configurations are encrypted with a key from Android Keystore; system backup is disabled
+- CI unpacks the release APK and fails the build if it finds a secret or a debug tool inside
 
 `Kotlin` `Compose · Material 3` `Glance` `Hilt` `Ktor` `libXray` `Robolectric` `GitHub Actions`
 
-[Страница продукта ↗](https://vazie.app/vpn) &nbsp;·&nbsp; [Код на GitHub ↗](https://github.com/vazovsky17/VazieVPN) &nbsp;·&nbsp; [Кейс на Behance ↗](https://www.behance.net/gallery/256711563/Vazie-VPN-Native-Android-VPN-Client)
+[Product page ↗](https://vazie.app/vpn) &nbsp;·&nbsp; [Code on GitHub ↗](https://github.com/vazovsky17/VazieVPN) &nbsp;·&nbsp; [Case on Behance ↗](https://www.behance.net/gallery/256711563/Vazie-VPN-Native-Android-VPN-Client)
 
 <br>
 
-### 02 · PermAware — Android-утилита для приватности
+### 02 · PermAware — an Android privacy utility
 
-`Опубликован в RuStore · v1.0.0`
+`Published on RuStore · v1.0.0`
 
-<img src="assets/permaware-flow.svg" alt="Как PermAware превращает разрешения Android в приватную читаемую историю: пакеты, интерпретация, сравнение снимков, локальная база Room" width="100%">
+<img src="assets/permaware-flow.svg" alt="How PermAware turns Android permissions into a private, readable history: packages, interpretation, snapshot comparison, local Room database" width="100%">
 
-> **Задача.** Трудно понять, к каким данным и функциям устройства имеют доступ установленные приложения. Отдавать такой список на чужой сервер ради ответа — плохая идея.
+> **Problem.** It is hard to tell which data and device features installed apps can access. Sending that list to someone else's server just to get an answer is a bad idea.
 
-**Что сделала:** приложение целиком — от разбора разрешений до публикации и прохождения проверки в RuStore.
+**What I did:** the whole app — from parsing permissions to publishing and passing review on RuStore.
 
-- Анализ выполняется только на устройстве, результаты никуда не отправляются
-- Разрешения читаются через стандартные Android API, настройки других приложений не меняются
-- Экспорт отчёта в текст или JSON через системное меню «Поделиться»
+- Analysis runs only on the device; results are never sent anywhere
+- Permissions are read through standard Android APIs; other apps' settings are not changed
+- Reports export to text or JSON through the system share sheet
 
 `Kotlin` `Jetpack Compose` `Android API`
 
-[RuStore ↗](https://www.rustore.ru/catalog/app/app.vazovsky.permaware) &nbsp;·&nbsp; [Код на GitHub ↗](https://github.com/vazovsky17/PermAware) &nbsp;·&nbsp; [Кейс на Behance ↗](https://www.behance.net/gallery/256712279/PermAware-Android-Privacy-Audit)
+[RuStore ↗](https://www.rustore.ru/catalog/app/app.vazovsky.permaware) &nbsp;·&nbsp; [Code on GitHub ↗](https://github.com/vazovsky17/PermAware) &nbsp;·&nbsp; [Case on Behance ↗](https://www.behance.net/gallery/256712279/PermAware-Android-Privacy-Audit)
 
 <br>
 
-### 03 · Экосистема Vazie — общая основа для нескольких приложений
+### 03 · The Vazie ecosystem — a shared foundation for several apps
 
-`Выпущен один продукт из пяти`
+`One of five products released`
 
-> **Задача.** Несколько приложений должны выглядеть и вести себя одинаково, но работать независимо: каждое полезно само по себе и ничего не требует от остальных.
+> **Problem.** Several apps should look and behave alike but work independently: each is useful on its own and requires nothing from the others.
 
-**Что сделала:** продуктовую модель, сайт [vazie.app](https://vazie.app), общий аккаунт и правила монетизации. VPN — первое приложение, где всё это собрано целиком. Vazie Relay строится на Kotlin Multiplatform с нативным интерфейсом на Android и iOS.
+**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN is the first app where all of this comes together. Vazie Relay is built on Kotlin Multiplatform with a native UI on Android and iOS.
 
 `Kotlin` `Kotlin Multiplatform` `Jetpack Compose` `SwiftUI`
 
 <br>
 
-`СТЕК`
+`STACK`
 
-## С чем я работаю
+## What I work with
 
-| Android | Архитектура · данные и сеть | Тесты и релиз | Backend и iOS |
+| Android | Architecture · data and network | Testing and release | Backend and iOS |
 | :-- | :-- | :-- | :-- |
-| Kotlin | MVVM · Clean Architecture | JUnit · Robolectric | Backend на Kotlin |
-| Jetpack Compose · Material 3 | Многомодульные проекты | Compose UI tests | Spring Boot · PostgreSQL |
-| Coroutines / Flow | Hilt · Gradle convention-плагины | GitHub Actions · R8 | Docker |
-| Navigation · Glance · VpnService | Room · DataStore · Ktor | Подпись и release-сборки | Swift / SwiftUI |
+| Kotlin | MVVM · Clean Architecture | JUnit · Robolectric | Backend in Kotlin |
+| Jetpack Compose · Material 3 | Multi-module projects | Compose UI tests | Spring Boot · PostgreSQL |
+| Coroutines / Flow | Hilt · Gradle convention plugins | GitHub Actions · R8 | Docker |
+| Navigation · Glance · VpnService | Room · DataStore · Ktor | Signing and release builds | Swift / SwiftUI |
 | Android SDK | Firebase · Android Keystore | Google Play · RuStore | Kotlin Multiplatform |
 
-Backend и iOS — пока только в собственных проектах, и я говорю об этом честно.
+Backend and iOS so far only in my own projects, and I say so plainly.
 
 <br>
 
-`КОММЕРЧЕСКИЙ ОПЫТ`
+`COMMERCIAL EXPERIENCE`
 
-## В Android-разработке с 2022 года
+## In Android development since 2022
 
-| Период | Компания | Что делала |
+| Period | Company | What I did |
 | :-- | :-- | :-- |
-| янв 2024 — авг 2026 | **Жили Были** | Самостоятельно вела Android-направление нескольких коммерческих проектов: архитектура, оценка задач, разработка с нуля, поддержка, code review и релизы |
-| сен 2023 — фев 2024 | **Sandbox Development** | Параллельно с основной работой с нуля разработала коммерческое Android-приложение: от архитектуры до интеграции с backend |
-| апр 2023 — авг 2023 | **Smartway** | Миграция коммерческого приложения с React Native на нативный Android |
-| фев 2022 — мар 2023 | **Heads and Hands** | Feature-команда приложения «Спортмастер»: трекер физической активности, Google Fit, unit-тесты |
+| Jan 2024 — Aug 2026 | **Zhili Byli** | Independently led the Android side of several commercial projects: architecture, task estimation, building from scratch, maintenance, code review and releases |
+| Sep 2023 — Feb 2024 | **Sandbox Development** | Alongside my main job, built a commercial Android app from scratch: from architecture to backend integration |
+| Apr 2023 — Aug 2023 | **Smartway** | Migrated a commercial app from React Native to native Android |
+| Feb 2022 — Mar 2023 | **Heads and Hands** | Feature team of the Sportmaster app: physical activity tracker, Google Fit, unit tests |
 
 <br>
 
@@ -138,11 +138,11 @@ Backend и iOS — пока только в собственных проект�
 
 <div align="center">
 
-### Связаться
+### Get in touch
 
-Сайт, проекты и контакты — на [vazovsky.pro](https://vazovsky.pro). Быстрее всего — в Telegram.
+The website, projects and contacts are at [vazovsky.pro](https://vazovsky.pro). Telegram is the fastest way to reach me.
 
-**[Написать в Telegram →](https://t.me/vazovsky17)**
+**[Message on Telegram →](https://t.me/vazovsky17)**
 
 <br><br>
 

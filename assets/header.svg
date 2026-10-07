@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
-  <title id="title">Vazovsky — Android developer и product builder</title>
-  <desc id="desc">Kotlin, Jetpack Compose и Android SDK. Собственные продукты Vazie. Схематичный макет экрана Vazie VPN.</desc>
+  <title id="title">Vazovsky — Android developer and product builder</title>
+  <desc id="desc">Kotlin, Jetpack Compose and Android SDK. Own products under Vazie. Schematic mockup of the Vazie VPN screen.</desc>
 
   <defs>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0.35">
@@ -42,14 +42,14 @@
 
     <!-- availability pill -->
     <g transform="translate(64 92)">
-      <rect width="270" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <rect width="244" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.12"/>
       <circle cx="20" cy="17" r="4" fill="#5BE3A0"/>
-      <text x="34" y="22" font-size="14" fill="#C9D1E6">Независимый Android-разработчик</text>
+      <text x="34" y="22" font-size="14" fill="#C9D1E6">Independent Android developer</text>
     </g>
 
     <text x="60" y="214" font-size="96" font-weight="800" letter-spacing="-4" fill="url(#name)">Vazovsky</text>
-    <text x="64" y="262" font-size="29" font-weight="650" fill="#F5F7FC">Android developer и product builder</text>
-    <text x="64" y="304" font-size="16" fill="#8891A6">Kotlin, Jetpack Compose и Android SDK — а ещё backend, инфраструктура, релиз.</text>
+    <text x="64" y="262" font-size="29" font-weight="650" fill="#F5F7FC">Android developer and product builder</text>
+    <text x="64" y="304" font-size="16" fill="#8891A6">Kotlin, Jetpack Compose and Android SDK — plus backend, infrastructure and release.</text>
 
     <!-- stack chips -->
     <g transform="translate(64 330)" font-size="13" fill="#B9C2D8" text-anchor="middle">
@@ -67,12 +67,12 @@
 
       <rect x="16" y="66" width="198" height="106" rx="16" fill="#4CB0FF" fill-opacity="0.08" stroke="#4CB0FF" stroke-opacity="0.38"/>
       <circle cx="34" cy="90" r="4" fill="#5BE3A0"/>
-      <text x="46" y="95" font-size="13" font-weight="600" fill="#F5F7FC">Подключено</text>
+      <text x="46" y="95" font-size="13" font-weight="600" fill="#F5F7FC">Connected</text>
       <text x="32" y="116" font-size="11" fill="#8891A6">VLESS · Netherlands</text>
       <rect x="30" y="130" width="170" height="30" rx="15" fill="none" stroke="#4CB0FF" stroke-opacity="0.55"/>
-      <text x="115" y="150" font-size="12" text-anchor="middle" fill="#8CCBFF">Отключиться</text>
+      <text x="115" y="150" font-size="12" text-anchor="middle" fill="#8CCBFF">Disconnect</text>
 
-      <text x="18" y="203" font-size="10" letter-spacing="1.4" fill="#8891A6">СЕРВЕРЫ VAZIE</text>
+      <text x="18" y="203" font-size="10" letter-spacing="1.4" fill="#8891A6">VAZIE SERVERS</text>
 
       <g font-size="12">
         <g transform="translate(16 214)">
@@ -80,21 +80,21 @@
           <rect x="8" y="8" width="22" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.08"/>
           <text x="19" y="23" font-size="9" text-anchor="middle" fill="#B9C2D8">NL</text>
           <text x="40" y="24" fill="#F5F7FC">Netherlands</text>
-          <text x="188" y="24" font-size="10" text-anchor="end" fill="#5BE3A0">Подключено</text>
+          <text x="188" y="24" font-size="10" text-anchor="end" fill="#5BE3A0">Connected</text>
         </g>
         <g transform="translate(16 258)">
           <rect width="198" height="38" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
           <rect x="8" y="8" width="22" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.08"/>
           <text x="19" y="23" font-size="9" text-anchor="middle" fill="#B9C2D8">SE</text>
           <text x="40" y="24" fill="#F5F7FC">Sweden</text>
-          <text x="188" y="24" font-size="10" text-anchor="end" fill="#8891A6">Готова</text>
+          <text x="188" y="24" font-size="10" text-anchor="end" fill="#8891A6">Ready</text>
         </g>
         <g transform="translate(16 302)">
           <rect width="198" height="38" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
           <rect x="8" y="8" width="22" height="22" rx="11" fill="#FFFFFF" fill-opacity="0.08"/>
           <text x="19" y="23" font-size="9" text-anchor="middle" fill="#B9C2D8">US</text>
           <text x="40" y="24" fill="#F5F7FC">United States</text>
-          <text x="188" y="24" font-size="10" text-anchor="end" fill="#8891A6">Готова</text>
+          <text x="188" y="24" font-size="10" text-anchor="end" fill="#8891A6">Ready</text>
         </g>
       </g>
     </g>
