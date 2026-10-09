@@ -27,22 +27,23 @@ I build my own products.
 
 ## [Vazie](https://vazie.app) — a local-first app ecosystem
 
-Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. The first released product is **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, a native Android client for VLESS.
+Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. Two products are released: **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, a native Android client for VLESS, and **[Vazie Keep](https://vazie.app/keep)**, a password manager for `.kdbx` files.
 
 <p>
   <a href="https://vazie.app"><img src="https://img.shields.io/badge/Open-vazie.app-4CB0FF?style=for-the-badge&labelColor=04070F&logo=android&logoColor=4CB0FF" alt="Open vazie.app"></a>
   <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Vazie_VPN-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie VPN"></a>
+  <a href="https://vazie.app/keep"><img src="https://img.shields.io/badge/Vazie_Keep-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie Keep"></a>
   <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie VPN repository"></a>
   <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Log-@vazieapp-04070F?style=for-the-badge&logo=telegram&logoColor=4CB0FF" alt="Vazie project log on Telegram"></a>
 </p>
 
 | Product | What it is | Status |
 | :-- | :-- | :-- |
-| **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)** | VPN client for your own VLESS configuration | **Released · v1.0.0** |
-| **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)** | Password manager for `.kdbx` files | Coming soon |
-| **[Vazie Relay](https://github.com/vazovsky17/VazieRelay)** | Files between your own devices over the local network | Early stage |
-| **[Vazie Rhythm](https://github.com/vazovsky17/VazieRhythm)** | Habits and routines, stored locally | Concept |
-| **[Vazie Letter](https://github.com/vazovsky17/VazieLetter)** | A calm email client | Concept |
+| **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)** | VPN client for your own VLESS configuration | **Released · v1.0.1** |
+| **[Vazie Keep](https://vazie.app/keep)** | Password manager for `.kdbx` files | **Released · v1.0.0** |
+| **Vazie Relay** | Messages and files between your own devices over the local network | Concept |
+| **Vazie Rhythm** | Habits and routines, stored locally | Concept |
+| **Vazie Letter** | A calm email client | Concept |
 
 The rule across the ecosystem is simple: the free version works without an account, data stays with the user, and only capabilities that need a running service are paid.
 
@@ -56,13 +57,13 @@ Own projects you can open and check: code on GitHub, design cases on Behance. No
 
 ### 01 · Vazie VPN — a native Android VPN client
 
-`Released · v1.0.0` · `APK on vazie.app`
+`Released · v1.0.1` · `APK on vazie.app`
 
 > **Problem.** Someone already has a `vless://` link from their own or a rented server. They need a client that brings up a tunnel through it with no account and no ads — and says honestly when the connection does not work.
 
 **What I did:** the whole product — the Android app, the Kotlin backend, the website and the servers for the paid VPN Plus plan.
 
-- 23 Gradle modules; a convention plugin checks the boundaries between them on every build
+- 26 Gradle modules; a convention plugin checks the boundaries between them on every build
 - After connecting, the app separately checks packets, DNS and TLS and shows exactly what is failing
 - Configurations are encrypted with a key from Android Keystore; system backup is disabled
 - CI unpacks the release APK and fails the build if it finds a secret or a debug tool inside
@@ -95,13 +96,13 @@ Own projects you can open and check: code on GitHub, design cases on Behance. No
 
 ### 03 · The Vazie ecosystem — a shared foundation for several apps
 
-`One of five products released`
+`Two of five products released`
 
 > **Problem.** Several apps should look and behave alike but work independently: each is useful on its own and requires nothing from the others.
 
-**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN is the first app where all of this comes together. Vazie Relay is built on Kotlin Multiplatform with a native UI on Android and iOS.
+**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN was the first app where all of this came together; Keep is the second, with the Keep+ plan sold on the site. Keep is built around a shared Rust core: the Android app is released, and the iOS/macOS, desktop and browser-extension clients are in development.
 
-`Kotlin` `Kotlin Multiplatform` `Jetpack Compose` `SwiftUI`
+`Kotlin` `Rust` `Jetpack Compose` `SwiftUI`
 
 <br>
 
