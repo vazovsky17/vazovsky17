@@ -13,7 +13,8 @@
 
 **I write Kotlin, Jetpack Compose and Android SDK.**<br>
 Not just the app interface, but also the backend, infrastructure, release and publishing.<br>
-I build my own products.
+I build my own products.<br>
+Now working independently as **[Vazovsky Development](https://vazovsky.pro)**.
 
 <br>
 
@@ -27,20 +28,21 @@ I build my own products.
 
 ## [Vazie](https://vazie.app) — a local-first app ecosystem
 
-Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. Two products are released: **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, a native Android client for VLESS, and **[Vazie Keep](https://vazie.app/keep)**, a password manager for `.kdbx` files.
+Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. Two products are released: **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, a native Android client for VLESS, and **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)**, a password manager for `.kdbx` files.
 
 <p>
   <a href="https://vazie.app"><img src="https://img.shields.io/badge/Open-vazie.app-4CB0FF?style=for-the-badge&labelColor=04070F&logo=android&logoColor=4CB0FF" alt="Open vazie.app"></a>
   <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Vazie_VPN-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie VPN"></a>
   <a href="https://vazie.app/keep"><img src="https://img.shields.io/badge/Vazie_Keep-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie Keep"></a>
-  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/Source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie VPN repository"></a>
+  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/VPN_source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie VPN repository"></a>
+  <a href="https://github.com/vazovsky17/VazieKeep"><img src="https://img.shields.io/badge/Keep_source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie Keep repository"></a>
   <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Log-@vazieapp-04070F?style=for-the-badge&logo=telegram&logoColor=4CB0FF" alt="Vazie project log on Telegram"></a>
 </p>
 
 | Product | What it is | Status |
 | :-- | :-- | :-- |
 | **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)** | VPN client for your own VLESS configuration | **Released · v1.0.1** |
-| **[Vazie Keep](https://vazie.app/keep)** | Password manager for `.kdbx` files | **Released · v1.0.0** |
+| **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)** | Password manager for `.kdbx` files | **Released · v1.0.0** |
 | **Vazie Relay** | Messages and files between your own devices over the local network | Concept |
 | **Vazie Rhythm** | Habits and routines, stored locally | Concept |
 | **Vazie Letter** | A calm email client | Concept |
@@ -128,6 +130,7 @@ Backend and iOS so far only in my own projects, and I say so plainly.
 
 | Period | Company | What I did |
 | :-- | :-- | :-- |
+| Sep 2026 — present | **[Vazovsky Development](https://vazovsky.pro)** | My own practice: I build and ship my own products — Vazie VPN, Vazie Keep and PermAware — and take on client Android work: development, code audits, fixes and release preparation for Google Play and RuStore |
 | Jan 2024 — Aug 2026 | **Zhili Byli** | Independently led the Android side of several commercial projects: architecture, task estimation, building from scratch, maintenance, code review and releases |
 | Sep 2023 — Feb 2024 | **Sandbox Development** | Alongside my main job, built a commercial Android app from scratch: from architecture to backend integration |
 | Apr 2023 — Aug 2023 | **Smartway** | Migrated a commercial app from React Native to native Android |
