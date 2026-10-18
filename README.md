@@ -28,26 +28,26 @@ Now working independently as **[Vazovsky Development](https://vazovsky.pro)**.
 
 ## [Vazie](https://vazie.app) — a local-first app ecosystem
 
-Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. Two products are released: **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)**, a native Android client for VLESS, and **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)**, a password manager for `.kdbx` files.
+Vazie is my own product: a small ecosystem of apps where data stays on the device and an account is optional. Two products are released: **[Vazie VPN](https://github.com/vazie-app/VazieVPN)**, a native Android client for VLESS configurations and subscriptions, and **[Vazie Keep](https://github.com/vazie-app/VazieKeep)**, a password manager for `.kdbx` files.
 
 <p>
   <a href="https://vazie.app"><img src="https://img.shields.io/badge/Open-vazie.app-4CB0FF?style=for-the-badge&labelColor=04070F&logo=android&logoColor=4CB0FF" alt="Open vazie.app"></a>
   <a href="https://vazie.app/vpn"><img src="https://img.shields.io/badge/Vazie_VPN-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie VPN"></a>
   <a href="https://vazie.app/keep"><img src="https://img.shields.io/badge/Vazie_Keep-APK-04070F?style=for-the-badge&logo=android&logoColor=4477FF" alt="Download Vazie Keep"></a>
-  <a href="https://github.com/vazovsky17/VazieVPN"><img src="https://img.shields.io/badge/VPN_source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie VPN repository"></a>
-  <a href="https://github.com/vazovsky17/VazieKeep"><img src="https://img.shields.io/badge/Keep_source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie Keep repository"></a>
+  <a href="https://github.com/vazie-app/VazieVPN"><img src="https://img.shields.io/badge/VPN_source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie VPN repository"></a>
+  <a href="https://github.com/vazie-app/VazieKeep"><img src="https://img.shields.io/badge/Keep_source-GitHub-04070F?style=for-the-badge&logo=github&logoColor=8B66FF" alt="Vazie Keep repository"></a>
   <a href="https://t.me/vazieapp"><img src="https://img.shields.io/badge/Log-@vazieapp-04070F?style=for-the-badge&logo=telegram&logoColor=4CB0FF" alt="Vazie project log on Telegram"></a>
 </p>
 
 | Product | What it is | Status |
 | :-- | :-- | :-- |
-| **[Vazie VPN](https://github.com/vazovsky17/VazieVPN)** | VPN client for your own VLESS configuration | **Released · v1.0.1** |
-| **[Vazie Keep](https://github.com/vazovsky17/VazieKeep)** | Password manager for `.kdbx` files | **Released · v1.0.0** |
-| **Vazie Relay** | Messages and files between your own devices over the local network | Concept |
-| **Vazie Rhythm** | Habits and routines, stored locally | Concept |
-| **Vazie Letter** | A calm email client | Concept |
+| **[Vazie VPN](https://github.com/vazie-app/VazieVPN)** | VPN client for your own VLESS configurations and subscriptions | **Released · v1.0.0** |
+| **[Vazie Keep](https://github.com/vazie-app/VazieKeep)** | Password manager for `.kdbx` files | **Released · v1.0.0** |
+| **Vazie Rhythm** | Habits and routines, stored locally | In development |
+| **Vazie Relay** | Messages and files between your own devices over the local network | Planned |
+| **Vazie Letter** | A calm email client | Planned |
 
-The rule across the ecosystem is simple: the free version works without an account, data stays with the user, and only capabilities that need a running service are paid.
+The rule across the ecosystem is simple: every released app has a complete free version, an account is optional for core features, and paid upgrades add convenience without taking ownership of the user's data.
 
 <br>
 
@@ -59,20 +59,20 @@ Own projects you can open and check: code on GitHub, design cases on Behance. No
 
 ### 01 · Vazie VPN — a native Android VPN client
 
-`Released · v1.0.1` · `APK on vazie.app`
+`Released · v1.0.0` · `Android 9+` · `APK on vazie.app`
 
-> **Problem.** Someone already has a `vless://` link from their own or a rented server. They need a client that brings up a tunnel through it with no account and no ads — and says honestly when the connection does not work.
+> **Problem.** Someone already has a `vless://` link or an HTTPS subscription from their own server or provider. They need a client that connects through it without an account, ads or uploading their configurations.
 
-**What I did:** the whole product — the Android app, the Kotlin backend, the website and the servers for the paid VPN Plus plan.
+**What I did:** the whole product — the Android app, product design, release pipeline and product page.
 
-- 26 Gradle modules; a convention plugin checks the boundaries between them on every build
-- After connecting, the app separately checks packets, DNS and TLS and shows exactly what is failing
+- 20 Gradle modules with boundaries checked on every build
+- Imports individual VLESS links and HTTPS subscriptions; supports REALITY and TLS over TCP, WebSocket and gRPC
 - Configurations are encrypted with a key from Android Keystore; system backup is disabled
-- CI unpacks the release APK and fails the build if it finds a secret or a debug tool inside
+- Release checks reject tracking SDKs and scan every APK before publishing
 
 `Kotlin` `Compose · Material 3` `Glance` `Hilt` `Ktor` `libXray` `Robolectric` `GitHub Actions`
 
-[Product page ↗](https://vazie.app/vpn) &nbsp;·&nbsp; [Code on GitHub ↗](https://github.com/vazovsky17/VazieVPN) &nbsp;·&nbsp; [Case on Behance ↗](https://www.behance.net/gallery/256711563/Vazie-VPN-Native-Android-VPN-Client)
+[Product page ↗](https://vazie.app/vpn) &nbsp;·&nbsp; [Code on GitHub ↗](https://github.com/vazie-app/VazieVPN) &nbsp;·&nbsp; [Case on Behance ↗](https://www.behance.net/gallery/256711563/Vazie-VPN-Native-Android-VPN-Client)
 
 <br>
 
@@ -102,7 +102,7 @@ Own projects you can open and check: code on GitHub, design cases on Behance. No
 
 > **Problem.** Several apps should look and behave alike but work independently: each is useful on its own and requires nothing from the others.
 
-**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN was the first app where all of this came together; Keep is the second, with the Keep+ plan sold on the site. Keep is built around a shared Rust core: the Android app is released, and the iOS/macOS, desktop and browser-extension clients are in development.
+**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN and Keep are the first released apps; Keep connects the optional Keep+ plan to a Vazie Account. Keep is built around a Rust core: the Android app is released, and the iPhone app is in development.
 
 `Kotlin` `Rust` `Jetpack Compose` `SwiftUI`
 
