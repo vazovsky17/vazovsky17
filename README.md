@@ -43,9 +43,13 @@ Vazie is my own product: a small ecosystem of apps where data stays on the devic
 | :-- | :-- | :-- |
 | **[Vazie VPN](https://github.com/vazie-app/VazieVPN)** | VPN client for your own VLESS configurations and subscriptions | **Released · v1.0.0** |
 | **[Vazie Keep](https://github.com/vazie-app/VazieKeep)** | Password manager for `.kdbx` files | **Released · v1.0.0** |
-| **Vazie Rhythm** | Habits and routines, stored locally | In development |
-| **Vazie Relay** | Messages and files between your own devices over the local network | Planned |
-| **Vazie Letter** | A calm email client | Planned |
+| **[Vazie Rhythm](https://github.com/vazie-app/VazieRhythm)** | Routines, daily tasks and reminders, stored locally | In development |
+| **[Vazie Lore](https://github.com/vazie-app/VazieLore)** | Markdown notes and a personal knowledge base stored as ordinary files | In development |
+| **[Vazie Relay](https://github.com/vazie-app/VazieRelay)** | Private files and messages between your own devices | Planned |
+| **[Vazie Letter](https://github.com/vazie-app/VazieLetter)** | A calm email client for multiple mailboxes | Planned |
+| **[Vazie Wave](https://github.com/vazie-app/VazieWave)** | Private communication built around end-to-end encryption | Planned |
+
+**What's next for the released apps:** macOS versions of Vazie VPN and Vazie Keep are in development, and the browser extension for Vazie Keep is already ready.
 
 The rule across the ecosystem is simple: every released app has a complete free version, an account is optional for core features, and paid upgrades add convenience without taking ownership of the user's data.
 
@@ -98,11 +102,11 @@ Own projects you can open and check: code on GitHub, design cases on Behance. No
 
 ### 03 · The Vazie ecosystem — a shared foundation for several apps
 
-`Two of five products released`
+`Two of seven products released`
 
 > **Problem.** Several apps should look and behave alike but work independently: each is useful on its own and requires nothing from the others.
 
-**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN and Keep are the first released apps; Keep connects the optional Keep+ plan to a Vazie Account. Keep is built around a Rust core: the Android app is released, and the iPhone app is in development.
+**What I did:** the product model, the [vazie.app](https://vazie.app) website, the shared account and the monetization rules. VPN and Keep are the first released apps; Keep connects the optional Keep+ plan to a Vazie Account. Keep is built around a Rust core: the Android app and the browser extension are ready, and the iPhone and macOS apps are in development. Vazie VPN is also coming to macOS.
 
 `Kotlin` `Rust` `Jetpack Compose` `SwiftUI`
 
